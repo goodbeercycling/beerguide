@@ -1,0 +1,17 @@
+{
+  "places": [
+    {
+      "location": {
+        "latitude": 40.8115461,
+        "longitude": -91.1024535
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3073751871747134797",
+      "websiteUri": "http://goodburlington.com/",
+      "displayName": {
+        "text": "Good Restaurant + Lounge",
+        "languageCode": "en"
+      },
+      "primaryType": "restaurant"
+    }
+  ]
+}

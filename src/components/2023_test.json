@@ -1,0 +1,377 @@
+{
+  "Thursday": {
+    "viewPosition": {
+      "lat": 41.7958242,
+      "lng": -93.1595035
+    },
+    "origin": {
+      "lat": 41.6002055,
+      "lng": -93.588965
+    },
+    "destination": {
+      "lat": 41.9711091,
+      "lng": -92.5815775
+    },
+    "waypoints": [
+      {
+        "lat": 41.6002055,
+        "lng": -93.588965
+      },
+      {
+        "lat": 41.610356952790696,
+        "lng": -93.56112233659601
+      },
+      {
+        "lat": 41.61235679013381,
+        "lng": -93.55149415940791
+      },
+      {
+        "lat": 41.6151161156605,
+        "lng": -93.5418382069543
+      },
+      {
+        "lat": 41.61914154584733,
+        "lng": -93.50180727545337
+      },
+      {
+        "lat": 41.61880741474153,
+        "lng": -93.4647011969769
+      },
+      {
+        "lat": 41.64396722334966,
+        "lng": -93.46456489059051
+      },
+      {
+        "lat": 41.64441550812669,
+        "lng": -93.36081365998025
+      },
+      {
+        "lat": 41.64658019105566,
+        "lng": -93.35823873932596
+      },
+      {
+        "lat": 41.6591056,
+        "lng": -93.3033659
+      },
+      {
+        "lat": 41.6734722,
+        "lng": -93.2458626
+      },
+      {
+        "lat": 41.6994179,
+        "lng": -93.0561483
+      },
+      {
+        "lat": 41.7170143,
+        "lng": -92.9072362
+      },
+      {
+        "lat": 41.7440843,
+        "lng": -92.7259236
+      },
+      {
+        "lat": 41.9711091,
+        "lng": -92.5815775
+      },
+      {
+        "lat": 41.9711091,
+        "lng": -92.5815775
+      }
+    ],
+    "bars": {
+      "Hy-Vee Market Grille-Altoona": {
+        "position": {
+          "lat": 41.6428573,
+          "lng": -93.4665326
+        },
+        "url": "https://www.hy-vee.com/pages/mealtime?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "address": "108 8th St SW, Altoona",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Brightside Aleworks": {
+        "position": {
+          "lat": 41.6423805,
+          "lng": -93.4690072
+        },
+        "url": "https://www.instagram.com/brightsideales/?hl=en",
+        "address": "480 Center Pl, Altoona",
+        "placeId": "ChIJU2jRa5qT7ocRSSvYBx3uoq0",
+        "photoRef": "ATplDJZjfljvrY1SjYV1dCpZMeqKrKaJTdbXHkRe2yU1UIm31hYRvh93vVRBvbB2dArGPhaqL7BcrtoRoeTIqpX0SkmIi4vB9Bz8dBK_QxrDrUMl1BtrY8QCj5gFKC_QrO638u1oVwoOedDgjtDUgL2gHoYBG4EgB9axEvZjDbgIP9f4UOE"
+      },
+      "Tavern 36": {
+        "position": {
+          "lat": 41.6686837,
+          "lng": -93.3585293
+        },
+        "url": "https://www.tavernthirtysix.com/",
+        "address": "101 2nd St NW, Mitchellville",
+        "placeId": "ChIJPTVxwDXs7ocRTcWGiTcNIUA",
+        "photoRef": "ATplDJYCLoIwjE3reuwlp3G2_qrk6ZQEW1niUK7L5rcXVM-FxlSzZ7wvmd4DLZOgAfF3YVs1rmptWMNcEI76BmjcAXBaRE-1-5whwN4w8VZd142x8TicPgbhZYah2KAja0Lv6Tii_BTocLTCd20nNvFQmDNwzbb6fh12mV6MheTHdwSJlTGW"
+      },
+      "Iowa Beer Bus": {
+        "position": {
+          "lat": 41.6591056,
+          "lng": -93.3033659
+        },
+        "url": "https://www.facebook.com/iowabeerbus/",
+        "address": ""
+      },
+      "Gezellig Brewing Co": {
+        "position": {
+          "lat": 41.7022663,
+          "lng": -93.0582228
+        },
+        "url": "http://www.gezelligbrewing.com/",
+        "address": "403 W 4th St N Suite 103, Newton",
+        "placeId": "ChIJP2SBmZAd74cRyxfPj8ss8eI",
+        "photoRef": "ATplDJZPcNz1IXQUTf6gDw6sX3Be4kllaPcR0XDd9vJu8bz9toUMI8TG139Z0aNOEq7HwoCuITlvVaTCcyiLYrROl23K06GdSIIRv5LhvGg_gR7tyycezYbiTkCt9lncK8SfGge1zxz5ae5Nf3eOVnTvxsXGWSp3uCMpaIUTggICOr9k4X_w"
+      },
+      "Murph and Mary's Pub": {
+        "position": {
+          "lat": 41.7022646,
+          "lng": -93.0576497
+        },
+        "url": "https://www.facebook.com/murphandmarys",
+        "address": "403 W 4th St N, Suite 104, Newton",
+        "placeId": "ChIJdVyrq-Md74cR0ZKby-yYCkA",
+        "photoRef": "ATplDJZmaCX4zBxv92gD6HLrZeWU6-tOA6ghI8pPuzGiwUzS6Re6hXXv7qB-pVCepilKGEYbKuLJhYWgZOs8WayDUCltH7ifPTM0dGd05zPYxePYiE2hIDFzHqggePnR-HisVio6wpEL-MyaVRuBsGVTJoJOfcFMvAFkHanE_aMppBl6k9hI"
+      },
+      "Hy-Vee Market Grille-Newton": {
+        "position": {
+          "lat": 41.696844,
+          "lng": -93.0340362
+        },
+        "url": "https://www.hy-vee.com/pages/mealtime?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "address": "1501 1st Ave E, Newton",
+        "placeId": "ChIJE4ZmRpQc74cR5WI6sZnE8wI",
+        "photoRef": "ATplDJZYQIZk7IEebGfIvmBRFn3OfxL50_H43_EkEh5x3n5o8X77En80yetz3nO1QXDdWIDX-TeBRaKwNwKJ7FCFXQJN3dIyo_efQ2Hms-f-wyEP6myp9JiwcQlTtNiV1RtiXBKLWisbVoFMavnyWvC8QAwoFlRq8EqIJRafUpZe52b1UUnT"
+      },
+      "Iowa Craft Beer Tent-Grinell": {
+        "position": {
+          "lat": 41.7595347,
+          "lng": -92.8025185
+        },
+        "url": "http://www.iowacraftbeertent.com/",
+        "address": ""
+      },
+      "Grinnell Craft Brewhouse": {
+        "position": {
+          "lat": 41.7440843,
+          "lng": -92.7259236
+        },
+        "url": "https://www.facebook.com/GrinnellCraftBrewhouse",
+        "address": "923 Main St, Grinnell",
+        "placeId": "ChIJCy9W2mhy74cRE5lWz5AsWY0",
+        "photoRef": "ATplDJboAzPsSxMTZvtxMHTwnDsWfmNrBAWqxXGYM63cLzkos8yszdB6eUGseDMBxklg6EjaLWHQ5UcEaHW89cB1CPMSCbF6ZWLkOSSkkBo53Po5gSseyFWN5xKJQ9PuXUYudFoTjpnkOR8_hUkFyf6Ow0ne7F4HS4L63MEu7iWj4A0uVZpW"
+      },
+      "Prairie Canary Bar": {
+        "position": {
+          "lat": 41.7441877,
+          "lng": -92.7255793
+        },
+        "url": "https://www.prairiecanary.com/menus",
+        "address": "924 Main St, Grinnell",
+        "placeId": "ChIJJ6mp2Ghy74cRr6YWvknNBf4",
+        "photoRef": "ATplDJZ-nXrRRiigep7jyie39IeWd7039Sf3gpjs3LCLXDBb9W8fPT0yBd1EvUcckbGwbkEwOFCViCF8EguzbiCWIzMWDtmnRDite8lLZlJLiDNpnNcQsTvRH6l6lP8eYTj2FxvR4Tbk8JBp-7g2c1z6tqsLZqCPV8Lc55jE8cBttEz13TrP"
+      },
+      "Hometown Heroes": {
+        "position": {
+          "lat": 41.7435821,
+          "lng": -92.7256671
+        },
+        "url": "http://www.grinnellheroes.com/",
+        "address": "908 Main St, Grinnell",
+        "placeId": "ChIJq6r6K2ly74cRHTvvaBNFWpA",
+        "photoRef": "ATplDJYJ3dgio_dZYoF8DuU4JfV7X2-XSYsAcISsSpc81SVAUzfNQbMoOz8tgX4gQF-bRMcSsiQlxBov5ly8aCQ_1szVyqbOTH8lWROmqyuOdzJVcAmBCGXoYpc5rP51XWmqWb3oGS_2NNrUlgp4kQwN2CKxaxagjo9V7ArQyGzU1cu_WOcE"
+      },
+      "Iowa Craft Beer Tent-Tama": {
+        "position": {
+          "lat": 41.8807791,
+          "lng": -92.7078812
+        },
+        "url": "http://www.iowacraftbeertent.com/",
+        "address": ""
+      },
+      "The Pump": {
+        "position": {
+          "lat": 41.9619539,
+          "lng": -92.5790855
+        },
+        "url": "https://www.facebook.com/TheTamaPump/",
+        "address": "218 W 3rd st, Tama",
+        "placeId": "ChIJqT8YzyCD74cRuO9pBBq1pfs",
+        "photoRef": "ATplDJZd67ndFapIacuadaj3QB77EH0bnqPHvXdA3yX-b-RQ4ZTXV6lr6DFKqYX-_M3-WIy92AVPKRZFaApVCYfesx0W3aMUXAsXTmBXIM-ZPmskI6XW_gvZi7MUQuyi0g-roj_RMcLix0PegXZT6ggmSKu2pGVVMpjY-Gx0Ok3P3fYqDH06"
+      }
+    }
+  },
+  "Saturday": {
+    "view": {
+      "position": {
+        "lat": 47.68944404406231,
+        "lng": -122.3610918977469
+      },
+      "zoom": 14
+    },
+    "towns": [
+    ],
+    "bars": {
+      "North Star Diner": {
+        "position": {
+          "lat": 47.6922546,
+          "lng": -122.355198
+        },
+        "url": "https://northstardiner.com/breakfast/",
+        "address": "8580 Greenwood Ave N, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Bleachers": {
+        "position": {
+          "lat": 47.6916239,
+          "lng": -122.3551745
+        },
+        "url": "http://www.bleachers-pub.com/menu",
+        "address": "8560 Greenwood Ave N, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Baranof": {
+        "position": {
+          "lat": 47.6918111,
+          "lng": -122.3556926
+        },
+        "url": "https://www.facebook.com/Thebaranof/",
+        "address": "8549 Greenwood Ave N, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Ridgewood Bottle and Tap": {
+        "position": {
+          "lat": 47.6778973,
+          "lng": -122.3546143
+        },
+        "url": "https://ridgewoodbottleandtap.com/",
+        "address": "316 N 67th St, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Waterwheel Lounge": {
+        "position": {
+          "lat": 47.6805741,
+          "lng": -122.376345
+        },
+        "url": "http://www.thewaterwheellounge.com/",
+        "address": "7034 15th Ave NW, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Chuck's Hop Shop": {
+        "position": {
+          "lat": 47.6908556,
+          "lng": -122.3658745
+        },
+        "url": "http://chuckshopshop.com/",
+        "address": "656 NW 85th St, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      },
+      "Lantern Brewing": {
+        "position": {
+          "lat": 47.6979011,
+          "lng": -122.3457602
+        },
+        "url": "http://www.lanternbrewing.com/",
+        "address": "938 N 95th St, Seattle",
+        "placeId": "ChIJMStz5OeT7ocRGb26uI7zkhI",
+        "photoRef": "ATplDJZL1CVSE3GfBRkNPBmqY_jJFALTB1NB48QXbKkG8DUBe0uNbD80_foEK3p_H-Nh0H7sMIdUKalpse5Rhhg_IamxTdvbUL1ppSCLqOGQCEkP51dmiUTAtjzttRE_Wq7RugiZUYYqrWLAJp0ykuHGJv3AxMkEkpF6rQD39thuyUhdfEvk"
+      }
+    },
+    "waypoints": [
+      {
+        "lat": 47.69603018589898,
+        "lng": -122.35422544266878
+      },
+      {
+        "lat": 47.696026575303485,
+        "lng": -122.35272340562044
+      },
+      {
+        "lat": 47.697890013487246,
+        "lng": -122.3527449324309
+      },
+      {
+        "lat": 47.6978086105211,
+        "lng": -122.34473150076593
+      },
+      {
+        "lat": 47.694198724984076,
+        "lng": -122.34479941507745
+      },
+      {
+        "lat": 47.694173449922715,
+        "lng": -122.34722949644494
+      },
+      {
+        "lat": 47.69388459120845,
+        "lng": -122.34726704737115
+      },
+      {
+        "lat": 47.693494629406054,
+        "lng": -122.34724558969903
+      },
+      {
+        "lat": 47.693478482445556,
+        "lng": -122.35104619169842
+      },
+      {
+        "lat": 47.69242239599918,
+        "lng": -122.35128530967285
+      },
+      {
+        "lat": 47.69242239599918,
+        "lng": -122.3553461741214
+      },
+      {
+        "lat": 47.67810998961802,
+        "lng": -122.3553517812919
+      },
+      {
+        "lat": 47.67784557158449,
+        "lng": -122.35521605001873
+      },
+      {
+        "lat": 47.677766110727866,
+        "lng": -122.35558083044475
+      },
+      {
+        "lat": 47.67774186120761,
+        "lng": -122.36596813921159
+      },
+      {
+        "lat": 47.67780970032565,
+        "lng": -122.37675527900251
+      },
+      {
+        "lat": 47.69060097893546,
+        "lng": -122.37681604926499
+      },
+      {
+        "lat": 47.69067319831123,
+        "lng": -122.36600138251694
+      },
+      {
+        "lat": 47.690610665510235,
+        "lng": -122.36069157368752
+      },
+      {
+        "lat": 47.696012397781914,
+        "lng": -122.36062720067116
+      },
+      {
+        "lat": 47.69600329933748,
+        "lng": -122.35868171125226
+      }
+    ]
+  }
+}
