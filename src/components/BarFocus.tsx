@@ -50,7 +50,7 @@ export function BarFocus({selectedBar, setSelectedBar, barDetails}: Props) {
             <BarFocusCloseDiv><CloseButton onClick={() => setSelectedBar("")}/></BarFocusCloseDiv>
             <BarNameDiv>{barDetails.name}</BarNameDiv>
             <BarAddressDiv>{barDetails.address}</BarAddressDiv>
-            <BarCommentDiv>{barDetails.comments}</BarCommentDiv>
+            {/*<BarCommentDiv>{barDetails.comments}</BarCommentDiv>*/}
             <div className={"rounded"}>{img}</div>
         </BarFocusDiv>
     );

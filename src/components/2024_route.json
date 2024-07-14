@@ -9,9 +9,50 @@
     },
     "towns": [
       {
+        "name": "Selma",
+        "bars": [
+          "Iowa Beer Bus-Selma"
+        ]
+      },
+      {
+        "name": "3 mi after Selma",
+        "bars": [
+          "Iowa Craft Beer Tent-3 mi after Selma"
+        ]
+      },
+      {
+        "name": "Libertyville",
+        "bars": [
+          "Pecks Pub-Libertyville"
+        ]
+      },
+      {
         "name": "Fairfield",
         "bars": [
-          "Mad Hatter Billiards-Fairfield"
+          "La Notte Lounge Bar-Fairfield",
+          "Fairfield Golf and Country Club-Fairfield",
+          "Hideaway Pub \u0026 Beer Garden-Fairfield",
+          "Due South-Fairfield"
+        ]
+      },
+      {
+        "name": "Coppock",
+        "bars": [
+          "The Eagles Nest-Coppock"
+        ]
+      },
+      {
+        "name": "Trenton",
+        "bars": [
+          "Iowa Craft Beer Tent-Trenton"
+        ]
+      },
+      {
+        "name": "Mt. Pleasant",
+        "bars": [
+          "The Pressbox Grill \u0026 Bar-Mt. Pleasant",
+          "The Grange Public House and Brewery-Mt. Pleasant",
+          "Westside Tap-Mt. Pleasant"
         ]
       }
     ],
@@ -682,16 +723,148 @@
       }
     ],
     "bars": {
-      "Mad Hatter Billiards-Fairfield": {
-        "name": "Mad Hatter Billiards",
+      "Due South-Fairfield": {
+        "name": "Due South",
         "position": {
-          "lat": 41.0083323,
-          "lng": -91.9639785
+          "lat": 41.008076,
+          "lng": -91.965315
         },
-        "url": "",
+        "url": "http://duesouthiowa.com/",
+        "town": "Fairfield",
+        "comments": "Left message",
+        "address": "102 North 2nd Street, Fairfield, Iowa, 52556",
+        "image": ""
+      },
+      "Fairfield Golf and Country Club-Fairfield": {
+        "name": "Fairfield Golf and Country Club",
+        "position": {
+          "lat": 40.999067,
+          "lng": -91.951725
+        },
+        "url": "http://fgacc.com/",
         "town": "Fairfield",
         "comments": "",
-        "address": "116 North Main Street, Fairfield, Iowa, 52556",
+        "address": "905 East Harrison Ave, Fairfield, Iowa, 52556",
+        "image": ""
+      },
+      "Hideaway Pub \u0026 Beer Garden-Fairfield": {
+        "name": "Hideaway Pub \u0026 Beer Garden",
+        "position": {
+          "lat": 41.008176,
+          "lng": -91.962008
+        },
+        "url": "https://www.facebook.com/AlleyBeerGarden?mibextid=ZbWKwL",
+        "town": "Fairfield",
+        "comments": "FB",
+        "address": "113 1/2 North Court Street, Fairfield, Iowa, 52556",
+        "image": ""
+      },
+      "Iowa Beer Bus-Selma": {
+        "name": "Iowa Beer Bus",
+        "position": {
+          "lat": 40.8570582,
+          "lng": -92.116651
+        },
+        "url": "",
+        "town": "Selma",
+        "comments": "",
+        "address": "Near Selma",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-3 mi after Selma": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 40.855109,
+          "lng": -92.104809
+        },
+        "url": "",
+        "town": "3 mi after Selma",
+        "comments": "",
+        "address": "13816 IA-16. Douds,IA 52551",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-Trenton": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.0627105,
+          "lng": -91.6394674
+        },
+        "url": "",
+        "town": "Trenton",
+        "comments": "",
+        "address": "Trenton City Park.",
+        "image": ""
+      },
+      "La Notte Lounge Bar-Fairfield": {
+        "name": "La Notte Lounge Bar",
+        "position": {
+          "lat": 41.007794,
+          "lng": -91.963952
+        },
+        "url": "https://www.instagram.com/la_notte_fairfield/",
+        "town": "Fairfield",
+        "comments": "Instagram",
+        "address": "101 W Broadway ave, Fairfield, Iowa, 52556",
+        "image": ""
+      },
+      "Pecks Pub-Libertyville": {
+        "name": "Pecks Pub",
+        "position": {
+          "lat": 40.957584,
+          "lng": -92.05175
+        },
+        "url": "",
+        "town": "Libertyville",
+        "comments": "Yes",
+        "address": "107 W Maple, Libertyville, Iowa, 52567",
+        "image": ""
+      },
+      "The Eagles Nest-Coppock": {
+        "name": "The Eagles Nest",
+        "position": {
+          "lat": 41.162573,
+          "lng": -91.717742
+        },
+        "url": "https://eagles-nest-wayland.edan.io/",
+        "town": "Coppock",
+        "comments": "",
+        "address": "3392 Locust Ave, Wayland, IA 52654",
+        "image": ""
+      },
+      "The Grange Public House and Brewery-Mt. Pleasant": {
+        "name": "The Grange Public House and Brewery",
+        "position": {
+          "lat": 40.965865,
+          "lng": -91.555106
+        },
+        "url": "https://grangepublichouse.com/",
+        "town": "Mt. Pleasant",
+        "comments": "Website",
+        "address": "129 S. Jefferson Street, Mount Pleasant, Iowa, 52641",
+        "image": ""
+      },
+      "The Pressbox Grill \u0026 Bar-Mt. Pleasant": {
+        "name": "The Pressbox Grill \u0026 Bar",
+        "position": {
+          "lat": 40.966091,
+          "lng": -91.568664
+        },
+        "url": "http://press-box-grill-bar.edan.io/",
+        "town": "Mt. Pleasant",
+        "comments": "FB",
+        "address": "1110 W Washington, Mount Pleasant, Iowa, 52641",
+        "image": ""
+      },
+      "Westside Tap-Mt. Pleasant": {
+        "name": "Westside Tap",
+        "position": {
+          "lat": 40.966045,
+          "lng": -91.555015
+        },
+        "url": "",
+        "town": "Mt. Pleasant",
+        "comments": "FB",
+        "address": "119 S Jefferson, Mount Pleasant, Iowa, 52641",
         "image": ""
       }
     }
@@ -709,22 +882,31 @@
         "name": "Griswold",
         "bars": [
           "Dusty's Place-Griswold",
-          "Rocket Joes-Griswold",
-          "Uno Moss-Griswold",
-          "The Bus Stop Sports Bar-Griswold"
+          "The Bus Stop Sports Bar-Griswold",
+          "East of Omaha-Griswold"
+        ]
+      },
+      {
+        "name": "2 mi past Griswold",
+        "bars": [
+          "Iowa Craft Beer Tent-2 mi past Griswold"
         ]
       },
       {
         "name": "Lewis",
         "bars": [
-          "Lewis Fire Department-Lewis",
-          "Big Daddy's-Lewis"
+          "Lewis Fire Department-Lewis"
+        ]
+      },
+      {
+        "name": "4 mi after Lewis",
+        "bars": [
+          "Iowa Craft Beer Tent-4 mi after Lewis"
         ]
       },
       {
         "name": "Atlantic",
         "bars": [
-          "Rumors Lounge-Atlantic",
           "Elbow Room-Atlantic",
           "Desperados-Atlantic",
           "Fireside Lounge-Atlantic"
@@ -890,25 +1072,13 @@
       }
     ],
     "bars": {
-      "Big Daddy's-Lewis": {
-        "name": "Big Daddy's",
-        "position": {
-          "lat": 41.305634,
-          "lng": -95.0903314
-        },
-        "url": "Think it is closed- # is to an individual not associated with bar",
-        "town": "Lewis",
-        "comments": "Messaged on FB, but last post was from 2021",
-        "address": "506 West Main Street, Lewis, Iowa, 51544",
-        "image": ""
-      },
       "Desperados-Atlantic": {
         "name": "Desperados",
         "position": {
-          "lat": 41.4058767,
-          "lng": -95.0111571
+          "lat": 41.405913,
+          "lng": -95.011169
         },
-        "url": "https://www.facebook.com/desperadoesatl/",
+        "url": "",
         "town": "Atlantic",
         "comments": "Glenwood Brewery- 2 IPA's unsure of names but will be on tap and bottled",
         "address": "105 E. 5th St., Atlantic, Iowa, 50022",
@@ -917,22 +1087,34 @@
       "Dusty's Place-Griswold": {
         "name": "Dusty's Place",
         "position": {
-          "lat": 41.2345103,
-          "lng": -95.1436178
+          "lat": 41.234444,
+          "lng": -95.143611
         },
-        "url": "",
+        "url": "https://www.facebook.com/Dustys-Place-319515869223/",
         "town": "Griswold",
         "comments": "Bear Grove- RAGBRAI sponsored beer",
         "address": "415 Main St, Griswold, Iowa, 51535",
         "image": "dustys_place.jpg"
       },
+      "East of Omaha-Griswold": {
+        "name": "East of Omaha",
+        "position": {
+          "lat": 41.23455,
+          "lng": -95.141548
+        },
+        "url": "https://eastofomaha.com/",
+        "town": "Griswold",
+        "comments": "Glenwood Iowa- Apricot Gold on Tap",
+        "address": "524 Main Street, Griswold, Iowa 51535",
+        "image": ""
+      },
       "Elbow Room-Atlantic": {
         "name": "Elbow Room",
         "position": {
-          "lat": 41.4078997,
-          "lng": -95.0120728
+          "lat": 41.407899,
+          "lng": -95.011995
         },
-        "url": "",
+        "url": "https://elbowroomiowa.com/",
         "town": "Atlantic",
         "comments": "Keg creek",
         "address": "19 E 3rd St, Atlantic, IA 50022",
@@ -941,74 +1123,62 @@
       "Fireside Lounge-Atlantic": {
         "name": "Fireside Lounge",
         "position": {
-          "lat": 41.4044409,
-          "lng": -95.0203094
+          "lat": 41.404426,
+          "lng": -95.020203
         },
-        "url": "Scott offered camping next door with Electricity",
+        "url": "",
         "town": "Atlantic",
         "comments": "Martu brewing- Hazy IPA's 2- Smell of $, Future trend Vol. #2, Mardelo- Mexican, IA Sunrise- vienna lager, Party Mode- Fruity sour, Fully Fledged Brewing Chili Buzz- Jalepeno Ale, Toppling Goliath Pseudo Sue- Pale Ale, Big Grove- Easy Eddy, Tailwind, Montuck- Montuck - lager",
         "address": "504 W 7th ST, Atlantic, Iowa, 50022",
         "image": "fireside_lounge.jpg"
       },
+      "Iowa Craft Beer Tent-2 mi past Griswold": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.2688047,
+          "lng": -95.1369767
+        },
+        "url": "",
+        "town": "2 mi past Griswold",
+        "comments": "",
+        "address": "66376 550th St, Griswold, IA 51535",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-4 mi after Lewis": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.358767,
+          "lng": -95.100752
+        },
+        "url": "",
+        "town": "4 mi after Lewis",
+        "comments": "",
+        "address": "60211 570th St. Atlantic, IA 50022",
+        "image": ""
+      },
       "Lewis Fire Department-Lewis": {
         "name": "Lewis Fire Department",
         "position": {
-          "lat": 41.3059185,
-          "lng": -95.0887931
+          "lat": 41.305989,
+          "lng": -95.088811
         },
-        "url": "Special permit, likely for RAGBRAI, will they have craft? ",
+        "url": "",
         "town": "Lewis",
         "comments": "",
         "address": "401 West Main Street, Lewis, Iowa, 51544",
         "image": ""
       },
-      "Rocket Joes-Griswold": {
-        "name": "Rocket Joes",
-        "position": {
-          "lat": 41.2348881,
-          "lng": -95.1431669
-        },
-        "url": "Coffee shop but has alcohol license ",
-        "town": "Griswold",
-        "comments": "No craft beer but large open space to get shade",
-        "address": "67777 560th St., Griswold, Iowa, 51535",
-        "image": "rocket_joes.jpg"
-      },
-      "Rumors Lounge-Atlantic": {
-        "name": "Rumors Lounge",
-        "position": {
-          "lat": 41.400606,
-          "lng": -94.9846956
-        },
-        "url": "Emailed 7/3",
-        "town": "Atlantic",
-        "comments": "",
-        "address": "1005 Whitney St, Atlantic, Iowa, 50022",
-        "image": "super_bowl.jpg"
-      },
       "The Bus Stop Sports Bar-Griswold": {
         "name": "The Bus Stop Sports Bar",
         "position": {
-          "lat": 41.2345053,
-          "lng": -95.1405463
+          "lat": 41.23455,
+          "lng": -95.140488
         },
-        "url": "",
+        "url": "https://www.facebook.com/The-Bus-Stop-Sports-Bar-226383634072525/",
         "town": "Griswold",
         "comments": "Big Grove- Deep Eddy and Tailwind",
         "address": "616 Main Street, Griswold, Iowa, 51535",
         "image": "bus_stop_sports_bar.jpeg"
-      },
-      "Uno Moss-Griswold": {
-        "name": "Uno Moss",
-        "position": {
-          "lat": 41.2348578,
-          "lng": -95.1434651
-        },
-        "url": "",
-        "town": "Griswold",
-        "comments": "will text back info",
-        "address": "411 Main Street, Griswold, Iowa, 51535",
-        "image": "uno_moss.jpg"
       }
     }
   },
@@ -1022,10 +1192,25 @@
     },
     "towns": [
       {
+        "name": "9 mi before Mediapolis",
+        "bars": [
+          "Iowa Craft Beer Tent-9 mi before Mediapolis"
+        ]
+      },
+      {
+        "name": "Mediapolis",
+        "bars": [
+          "Bulldogs on Main-Mediapolis"
+        ]
+      },
+      {
         "name": "Burlington",
         "bars": [
-          "Drake, The-Burlington",
-          "Valley Monster Pub-Burlington"
+          "The Buffalo-Burlington",
+          "Good Restaurant + Lounge-Burlington",
+          "The Som-Burlington",
+          "Valley Monster Pub-Burlington",
+          "The Busted Cup Brewhouse-Burlington"
         ]
       }
     ],
@@ -1256,23 +1441,83 @@
       }
     ],
     "bars": {
-      "Drake, The-Burlington": {
-        "name": "Drake, The",
+      "Bulldogs on Main-Mediapolis": {
+        "name": "Bulldogs on Main",
         "position": {
-          "lat": 40.8108903,
-          "lng": -91.1002364
+          "lat": 41.00779,
+          "lng": -91.164028
         },
-        "url": "http://www.thedrakerestaurant.com",
+        "url": "",
+        "town": "Mediapolis",
+        "comments": "Yes",
+        "address": "530 Main Street, Mediapolis, Iowa, 52637",
+        "image": ""
+      },
+      "Good Restaurant + Lounge-Burlington": {
+        "name": "Good Restaurant + Lounge",
+        "position": {
+          "lat": 40.811546,
+          "lng": -91.102453
+        },
+        "url": "http://goodburlington.com/",
         "town": "Burlington",
         "comments": "",
-        "address": "106 Washington St, Burlington, Iowa, 52601",
+        "address": "423 North 3rd Street., Burlington, Iowa, 52601",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-9 mi before Mediapolis": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.0025496,
+          "lng": -91.322929
+        },
+        "url": "",
+        "town": "9 mi before Mediapolis",
+        "comments": "",
+        "address": "20472 Mediapolis Rd. Yarmouth, IA 52660",
+        "image": ""
+      },
+      "The Buffalo-Burlington": {
+        "name": "The Buffalo",
+        "position": {
+          "lat": 40.789355,
+          "lng": -91.098557
+        },
+        "url": "http://www.thebuff.net/",
+        "town": "Burlington",
+        "comments": "",
+        "address": "2016 S Main St, Burlington, Iowa, 52601",
+        "image": ""
+      },
+      "The Busted Cup Brewhouse-Burlington": {
+        "name": "The Busted Cup Brewhouse",
+        "position": {
+          "lat": 40.811215,
+          "lng": -91.108035
+        },
+        "url": "http://www.bustedcup.com/",
+        "town": "Burlington",
+        "comments": "",
+        "address": "724 Jefferson St, Burlington, IA 52601",
+        "image": ""
+      },
+      "The Som-Burlington": {
+        "name": "The Som",
+        "position": {
+          "lat": 40.811321,
+          "lng": -91.110687
+        },
+        "url": "http://thesom.online/",
+        "town": "Burlington",
+        "comments": "",
+        "address": "863 Jefferson, Burlington, Iowa, 52601",
         "image": ""
       },
       "Valley Monster Pub-Burlington": {
         "name": "Valley Monster Pub",
         "position": {
-          "lat": 40.8089112,
-          "lng": -91.1025985
+          "lat": 40.808911,
+          "lng": -91.102598
         },
         "url": "http://www.facebook.com/ValleyMonsterPub",
         "town": "Burlington",
@@ -1292,16 +1537,34 @@
     },
     "towns": [
       {
+        "name": "Glenwood",
+        "bars": [
+          "Keg Creek Brewing Company-Glenwood",
+          "Quarthouse Lounge \u0026 Grill-Glenwood"
+        ]
+      },
+      {
         "name": "Silver City",
         "bars": [
-          "Silver Spokes-Silver City",
-          "The Hood-Silver City"
+          "Silver Spokes-Silver City"
+        ]
+      },
+      {
+        "name": "2.5 mi past Silver City",
+        "bars": [
+          "Iowa Craft Beer Tent-2.5 mi past Silver City"
+        ]
+      },
+      {
+        "name": "5 mi before Emerson",
+        "bars": [
+          "Iowa Craft Beer Tent-5 mi before Emerson"
         ]
       },
       {
         "name": "Emerson",
         "bars": [
-          "Old Road Cafe-Emerson"
+          "Iowa Beer Bus-Emerson"
         ]
       },
       {
@@ -1309,7 +1572,13 @@
         "bars": [
           "Stadium 34-Red Oak",
           "Williams Recreation Parlor-Red Oak",
-          "Five One 8, LLC-Red Oak"
+          "Five One 8-Red Oak"
+        ]
+      },
+      {
+        "name": "Burlington",
+        "bars": [
+          "Drake, The-Burlington"
         ]
       }
     ],
@@ -1496,37 +1765,97 @@
       }
     ],
     "bars": {
-      "Five One 8, LLC-Red Oak": {
-        "name": "Five One 8, LLC",
+      "Drake, The-Burlington": {
+        "name": "Drake, The",
         "position": {
-          "lat": 41.0095957,
-          "lng": -95.2279809
+          "lat": 40.81089,
+          "lng": -91.100236
         },
-        "url": "https://www.thefiveone8.com/",
+        "url": "http://www.thedrakerestaurant.com/",
+        "town": "Burlington",
+        "comments": "#REF!",
+        "address": "106 Washington St, Burlington, Iowa, 52601",
+        "image": ""
+      },
+      "Five One 8-Red Oak": {
+        "name": "Five One 8",
+        "position": {
+          "lat": 41.009595,
+          "lng": -95.227827
+        },
+        "url": "http://www.thefiveone8.com/",
         "town": "Red Oak",
         "comments": "Keg creek-MAS, Apricot, Brick red, Backpocket-gold coin\u0026dunkel, Big Grove, E \u0026 W \u0026 Royal Eddy, Citrus surfer, SingleSpeed- Gable and Zach's Mexican Donuts, Front street, Left Hand, Big Sky Brewing, West O- also will be serving a spaghetti Dinner",
         "address": "518 N 4th St, Red Oak, Iowa, 51566",
         "image": "five_one_8.jpg"
       },
-      "Old Road Cafe-Emerson": {
-        "name": "Old Road Cafe",
+      "Iowa Beer Bus-Emerson": {
+        "name": "Iowa Beer Bus",
         "position": {
-          "lat": 41.0170341,
-          "lng": -95.4022958
+          "lat": 41.0717748,
+          "lng": -95.4038037
         },
-        "url": "https://www.facebook.com/p/Old-Road-Cafe-Bar-100065261420234/",
+        "url": "",
         "town": "Emerson",
-        "comments": "Messaged on FB",
-        "address": "705 Morton Ave, Emerson, Iowa, 51533",
+        "comments": "",
+        "address": "Near Emerson",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-2.5 mi past Silver City": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.1317204,
+          "lng": -95.5745991
+        },
+        "url": "",
+        "town": "2.5 mi past Silver City",
+        "comments": "",
+        "address": "32064 Cary Ave. Silver City, IA 55171",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-5 mi before Emerson": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.086087,
+          "lng": -95.406205
+        },
+        "url": "",
+        "town": "5 mi before Emerson",
+        "comments": "",
+        "address": "55052 Us Hwy 59, Emerson, IA 51533",
+        "image": ""
+      },
+      "Keg Creek Brewing Company-Glenwood": {
+        "name": "Keg Creek Brewing Company",
+        "position": {
+          "lat": 41.025758,
+          "lng": -95.761162
+        },
+        "url": "http://www.kegcreekbrewing.com/",
+        "town": "Glenwood",
+        "comments": "Tap room is closed right?!?",
+        "address": "22381  221St. Street, Glenwood, Iowa, 51534",
+        "image": ""
+      },
+      "Quarthouse Lounge \u0026 Grill-Glenwood": {
+        "name": "Quarthouse Lounge \u0026 Grill",
+        "position": {
+          "lat": 41.046911,
+          "lng": -95.743433
+        },
+        "url": "",
+        "town": "Glenwood",
+        "comments": "Has an IPA on tap- think he said Fairydust crowd noise hard to hear, FB page has huge Budweiser pic",
+        "address": "20 N. Walnut Street, Glenwood, Iowa, 51534",
         "image": ""
       },
       "Silver Spokes-Silver City": {
         "name": "Silver Spokes",
         "position": {
-          "lat": 41.1127341,
-          "lng": -95.6369594
+          "lat": 41.112759,
+          "lng": -95.636985
         },
-        "url": "https://www.silverspokes.com/",
+        "url": "http://www.silverspokes.com/",
         "town": "Silver City",
         "comments": "big grove in cans,and tap creek, big grove have to come inside for good beer",
         "address": "405 Main Street, Silver City, Iowa, 51571",
@@ -1535,32 +1864,20 @@
       "Stadium 34-Red Oak": {
         "name": "Stadium 34",
         "position": {
-          "lat": 41.0266095,
-          "lng": -95.2185502
+          "lat": 41.026614,
+          "lng": -95.218533
         },
-        "url": "https://www.stadium34.com/menu/",
+        "url": "http://www.stadium34.com/",
         "town": "Red Oak",
-        "comments": "carries Keg Creek cans and tap and Iowa Fire IPA can- nothing anything special forRAGBRAI but riders welcome inside",
+        "comments": "carries Keg Creek cans and tap and Iowa Fire IPA can- riders welcome inside",
         "address": "1200 Senate Ave, Red Oak, Iowa, 51566",
         "image": "stadium_34.jpg"
-      },
-      "The Hood-Silver City": {
-        "name": "The Hood",
-        "position": {
-          "lat": 41.1127367,
-          "lng": -95.6373725
-        },
-        "url": "",
-        "town": "Silver City",
-        "comments": "",
-        "address": "405 main st., Silver City, Iowa, 51571",
-        "image": ""
       },
       "Williams Recreation Parlor-Red Oak": {
         "name": "Williams Recreation Parlor",
         "position": {
-          "lat": 41.0088108,
-          "lng": -95.228795
+          "lat": 41.008789,
+          "lng": -95.228607
         },
         "url": "",
         "town": "Red Oak",
@@ -1580,9 +1897,41 @@
     },
     "towns": [
       {
+        "name": "Lovilia",
+        "bars": [
+          "Iowa Beer Bus-Lovilia"
+        ]
+      },
+      {
+        "name": "4.5 mi after Lovilia",
+        "bars": [
+          "Iowa Craft Beer Tent-4.5 mi after Lovilia"
+        ]
+      },
+      {
         "name": "Eddyville",
         "bars": [
           "Melody's Kitchen-Eddyville"
+        ]
+      },
+      {
+        "name": "2 mi after Chillicothe",
+        "bars": [
+          "Iowa Craft Beer Tent-2 mi after Chillicothe"
+        ]
+      },
+      {
+        "name": "Ottumwa",
+        "bars": [
+          "Front Runners-Ottumwa",
+          "Hotel Ottumwa-Ottumwa",
+          "Ottumwa Golf and Social Club-Ottumwa",
+          "Pallister Brothers-Ottumwa",
+          "Snookered-Ottumwa",
+          "Warehouse Barbecue-Ottumwa",
+          "Alpine Inn-Ottumwa",
+          "Bubba-Q's-Ottumwa",
+          "Garrison Rock-Ottumwa"
         ]
       }
     ],
@@ -2005,16 +2354,160 @@
       }
     ],
     "bars": {
+      "Alpine Inn-Ottumwa": {
+        "name": "Alpine Inn",
+        "position": {
+          "lat": 41.009008,
+          "lng": -92.448609
+        },
+        "url": "http://www.atmdepot.com/",
+        "town": "Ottumwa",
+        "comments": "",
+        "address": "1804 Albia Rd, Ottumwa, Iowa, 52501-0000",
+        "image": ""
+      },
+      "Bubba-Q's-Ottumwa": {
+        "name": "Bubba-Q's",
+        "position": {
+          "lat": 41.01639,
+          "lng": -92.435126
+        },
+        "url": "https://www.bestbbqmidwest.com/",
+        "town": "Ottumwa",
+        "comments": "",
+        "address": "1110 N. Quincy Ave., Ottumwa, Iowa, 52501",
+        "image": ""
+      },
+      "Front Runners-Ottumwa": {
+        "name": "Front Runners",
+        "position": {
+          "lat": 41.005958,
+          "lng": -92.42362
+        },
+        "url": "",
+        "town": "Ottumwa",
+        "comments": "",
+        "address": "837 Church St, Ottumwa, Iowa, 52501-0000",
+        "image": ""
+      },
+      "Garrison Rock-Ottumwa": {
+        "name": "Garrison Rock",
+        "position": {
+          "lat": 40.985893,
+          "lng": -92.359914
+        },
+        "url": "https://www.wapellocounty.org/conservation/parks/garrison_rock_resource_management_unit/",
+        "town": "Ottumwa",
+        "comments": "FB ",
+        "address": "305 E Main St Ottumwa, IA 52501",
+        "image": ""
+      },
+      "Hotel Ottumwa-Ottumwa": {
+        "name": "Hotel Ottumwa",
+        "position": {
+          "lat": 41.018482,
+          "lng": -92.411489
+        },
+        "url": "http://www.hotelottumwa.com/",
+        "town": "Ottumwa",
+        "comments": "",
+        "address": "107 E 2nd St, Ottumwa, Iowa, 52501-0000",
+        "image": ""
+      },
+      "Iowa Beer Bus-Lovilia": {
+        "name": "Iowa Beer Bus",
+        "position": {
+          "lat": 41.1560514,
+          "lng": -92.9082477
+        },
+        "url": "",
+        "town": "Lovilia",
+        "comments": "",
+        "address": "Near Lovilia",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-2 mi after Chillicothe": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.067775,
+          "lng": -92.514107
+        },
+        "url": "",
+        "town": "2 mi after Chillicothe",
+        "comments": "",
+        "address": "18414 Rock Bluff Road Ottumwa, IA 52501",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-4.5 mi after Lovilia": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.085323,
+          "lng": -92.8713716
+        },
+        "url": "",
+        "town": "4.5 mi after Lovilia",
+        "comments": "",
+        "address": "1522 618th Place, Albia, Ia. 52531",
+        "image": ""
+      },
       "Melody's Kitchen-Eddyville": {
         "name": "Melody's Kitchen",
         "position": {
           "lat": 41.156737,
-          "lng": -92.6371708
+          "lng": -92.637171
         },
-        "url": "",
+        "url": "https://www.facebook.com/MelodysKitchenEddyville/",
         "town": "Eddyville",
         "comments": "",
         "address": "205 Walnut St., Eddyville, Iowa, 52553",
+        "image": ""
+      },
+      "Ottumwa Golf and Social Club-Ottumwa": {
+        "name": "Ottumwa Golf and Social Club",
+        "position": {
+          "lat": 41.040474,
+          "lng": -92.398367
+        },
+        "url": "http://ottumwagolfsc.com/",
+        "town": "Ottumwa",
+        "comments": "",
+        "address": "304 East Golf Avenue, Ottumwa, Iowa, 52501",
+        "image": ""
+      },
+      "Pallister Brothers-Ottumwa": {
+        "name": "Pallister Brothers",
+        "position": {
+          "lat": 41.018013,
+          "lng": -92.410117
+        },
+        "url": "https://m.facebook.com/pallisterbrothers/",
+        "town": "Ottumwa",
+        "comments": "",
+        "address": "116 N. Market St., Ottumwa, Iowa, 52501",
+        "image": ""
+      },
+      "Snookered-Ottumwa": {
+        "name": "Snookered",
+        "position": {
+          "lat": 41.016778,
+          "lng": -92.409949
+        },
+        "url": "https://www.facebook.com/profile.php?id=61552981993248",
+        "town": "Ottumwa",
+        "comments": "FB",
+        "address": "109 South Green Street, Ottumwa, Iowa, 52501",
+        "image": ""
+      },
+      "Warehouse Barbecue-Ottumwa": {
+        "name": "Warehouse Barbecue",
+        "position": {
+          "lat": 41.06135,
+          "lng": -92.409446
+        },
+        "url": "http://www.warehousebarbecue.com/",
+        "town": "Ottumwa",
+        "comments": "FB ",
+        "address": "2818 N COURT ROAD, Ottumwa, Iowa, 52501",
         "image": ""
       }
     }
@@ -2029,60 +2522,45 @@
     },
     "towns": [
       {
-        "name": "Wiota",
-        "bars": [
-          "Wiota Steakhouse \u0026 Lounge-Wiota"
-        ]
-      },
-      {
-        "name": "Cumberland",
-        "bars": [
-          "Middle of Nowhere-Cumberland"
-        ]
-      },
-      {
         "name": "Massena",
         "bars": [
-          "Massena Fire Department Foundation-Massena",
-          "Main Street Bar \u0026 Grill-Massena"
-        ]
-      },
-      {
-        "name": "Fontanelle",
-        "bars": [
-          "Rustic Tap-Fontanelle",
-          "Wreckers or Checkers-Fontanelle"
+          "Massena Fire Department-Massena"
         ]
       },
       {
         "name": "Greenfield",
         "bars": [
-          "Greenfield Golf \u0026 Country Club-Greenfield",
-          "Bloodline Irish Pub-Greenfield"
+          "Greenfield Bowl-Greenfield",
+          "Hotel Greenfield-Greenfield"
         ]
       },
       {
-        "name": "Orient",
+        "name": "3 mi past Greenfield",
         "bars": [
-          "Jennies Place-Orient",
-          "The Dugout Cafe-Orient"
+          "Iowa Craft Beer Tent-3 mi past Greenfield"
         ]
       },
       {
         "name": "Macksburg",
         "bars": [
-          "Deer Run Saloon \u0026 Grill-Macksburg"
+          "Iowa Beer Bus-Macksburg"
+        ]
+      },
+      {
+        "name": "7 mi before Winterset",
+        "bars": [
+          "Iowa Craft Beer Tent-7 mi before Winterset"
         ]
       },
       {
         "name": "Winterset",
         "bars": [
+          "The Honey Lounge-Winterset",
           "Sports Page Grill-Winterset",
           "Urban Taproom-Winterset",
           "Big Rack Brew Haus-Winterset",
-          "Mi Pueblito-Winterset",
           "The Drift-Winterset",
-          "Pheasant Run Pub \u0026 Grill, Inc.-Winterset",
+          "Pheasant Run Pub \u0026 Grill-Winterset",
           "1st Down Brewing Co.-Winterset"
         ]
       }
@@ -2421,10 +2899,10 @@
       "1st Down Brewing Co.-Winterset": {
         "name": "1st Down Brewing Co.",
         "position": {
-          "lat": 41.3343558,
-          "lng": -94.0131058
+          "lat": 41.334331,
+          "lng": -94.013046
         },
-        "url": "https://www.facebook.com/1stdownbrewingco/",
+        "url": "https://www.facebook.com/1stdownbrewingco",
         "town": "Winterset",
         "comments": "Big Grove Tailwind (16oz) Big Grove Easy Eddy Hazy IPA (12oz)",
         "address": "106 East Court Avenue, Winterset, Iowa, 50273",
@@ -2433,142 +2911,106 @@
       "Big Rack Brew Haus-Winterset": {
         "name": "Big Rack Brew Haus",
         "position": {
-          "lat": 41.2864794,
-          "lng": -93.9233734
+          "lat": 41.286504,
+          "lng": -93.923336
         },
-        "url": "https://bigrackbrewhaus.com/",
+        "url": "http://bigrackbrewhaus.com/",
         "town": "Winterset",
         "comments": "Opening at 3pm-10pm. we will have a food truck, live music and availability for camping and showers https://www.facebook.com/share/vk8VYRoPPYS1ssPc/",
         "address": "2475 Hiatt Apple Trail Road, Winterset, Iowa, 50273",
         "image": "big_rack_brew_haus.jpg"
       },
-      "Bloodline Irish Pub-Greenfield": {
-        "name": "Bloodline Irish Pub",
+      "Greenfield Bowl-Greenfield": {
+        "name": "Greenfield Bowl",
         "position": {
-          "lat": 41.3056468,
-          "lng": -94.4605422
+          "lat": 41.305234,
+          "lng": -94.459166
         },
-        "url": "https://www.facebook.com/p/Bloodline-Irish-Pub-100057206239190/",
+        "url": "",
         "town": "Greenfield",
-        "comments": "",
-        "address": "210-214 Public Square, Greenfield, Iowa, 50849",
-        "image": "bloodline.jpg"
+        "comments": "Can's- Big Grove Easy Eddie IPA and Tailwind",
+        "address": "203 E Iowa, Greenfield, Iowa, 50849-0000",
+        "image": ""
       },
-      "Deer Run Saloon \u0026 Grill-Macksburg": {
-        "name": "Deer Run Saloon \u0026 Grill",
+      "Hotel Greenfield-Greenfield": {
+        "name": "Hotel Greenfield",
         "position": {
-          "lat": 41.2147973,
-          "lng": -94.185322
+          "lat": 41.304938,
+          "lng": -94.459753
+        },
+        "url": "http://www.visithotelgreenfield.com/",
+        "town": "Greenfield",
+        "comments": "Goose IPA cans",
+        "address": "110 East Iowa Street, Greenfield, Iowa, 50849",
+        "image": ""
+      },
+      "Iowa Beer Bus-Macksburg": {
+        "name": "Iowa Beer Bus",
+        "position": {
+          "lat": 41.2003371,
+          "lng": -94.2402898
         },
         "url": "",
         "town": "Macksburg",
-        "comments": "NONE",
-        "address": "100 W North St, Macksburg, Iowa, 50155",
-        "image": "deer_run_saloon.jpg"
-      },
-      "Greenfield Golf \u0026 Country Club-Greenfield": {
-        "name": "Greenfield Golf \u0026 Country Club",
-        "position": {
-          "lat": 41.2996369,
-          "lng": -94.4857135
-        },
-        "url": "https://www.facebook.com/GGCCIOWA/",
-        "town": "Greenfield",
-        "comments": "NONE",
-        "address": "2094 Highway 92 West, Greenfield, Iowa, 50849",
-        "image": "greenfield_cc.jpg"
-      },
-      "Jennies Place-Orient": {
-        "name": "Jennies Place",
-        "position": {
-          "lat": 41.2030936,
-          "lng": -94.4168711
-        },
-        "url": "https://www.facebook.com/Jenniesplacebar/",
-        "town": "Orient",
-        "comments": "NONE",
-        "address": "101 West 1st Street, Orient, Iowa, 50858",
-        "image": "jennies_place.jpg"
-      },
-      "Main Street Bar \u0026 Grill-Massena": {
-        "name": "Main Street Bar \u0026 Grill",
-        "position": {
-          "lat": 41.2523187,
-          "lng": -94.7692508
-        },
-        "url": "",
-        "town": "Massena",
         "comments": "",
-        "address": "111 Main Street, Massena, Iowa, 50853",
+        "address": "Near Macksburg",
         "image": ""
       },
-      "Massena Fire Department Foundation-Massena": {
-        "name": "Massena Fire Department Foundation",
+      "Iowa Craft Beer Tent-3 mi past Greenfield": {
+        "name": "Iowa Craft Beer Tent",
         "position": {
-          "lat": 41.2534657,
-          "lng": -94.7691842
+          "lat": 41.264619,
+          "lng": -94.453654
         },
-        "url": "License applied for, worth reaching out",
+        "url": "",
+        "town": "3 mi past Greenfield",
+        "comments": "",
+        "address": "2657 State Hwy 25, Greenfield, IA 50849",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-7 mi before Winterset": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.2289305,
+          "lng": -94.0138663
+        },
+        "url": "",
+        "town": "7 mi before Winterset",
+        "comments": "",
+        "address": "2817 Clark Tower Rd Peru, IA 50222",
+        "image": ""
+      },
+      "Massena Fire Department-Massena": {
+        "name": "Massena Fire Department",
+        "position": {
+          "lat": 41.25351,
+          "lng": -94.769209
+        },
+        "url": "https://m.facebook.com/mfdfire/",
         "town": "Massena",
         "comments": "\"Limited craft choices, early in am",
         "address": "209 Main St, Massena, Iowa, 50853",
         "image": ""
       },
-      "Mi Pueblito-Winterset": {
-        "name": "Mi Pueblito",
+      "Pheasant Run Pub \u0026 Grill-Winterset": {
+        "name": "Pheasant Run Pub \u0026 Grill",
         "position": {
-          "lat": 41.3346667,
-          "lng": -94.0132801
+          "lat": 41.334272,
+          "lng": -94.013157
         },
         "url": "",
         "town": "Winterset",
-        "comments": "Need a spanish speaker",
-        "address": "103 N. John Wayne Drive, Winterset, Iowa, 50273",
-        "image": "mi_pueblito.jpg"
-      },
-      "Middle of Nowhere-Cumberland": {
-        "name": "Middle of Nowhere",
-        "position": {
-          "lat": 41.2727817,
-          "lng": -94.8700856
-        },
-        "url": "https://www.facebook.com/themiddleofnowhere1/",
-        "town": "Cumberland",
-        "comments": "",
-        "address": "112 Main Street, Cumberland, Iowa, 50843",
-        "image": "middle_of_nowhere.jpg"
-      },
-      "Pheasant Run Pub \u0026 Grill, Inc.-Winterset": {
-        "name": "Pheasant Run Pub \u0026 Grill, Inc.",
-        "position": {
-          "lat": 41.334213,
-          "lng": -94.0131917
-        },
-        "url": "https://www.facebook.com/PheasantRunPub/",
-        "town": "Winterset",
-        "comments": "",
+        "comments": "Easy Eddy, Ruthy, Gable- Singlespeed, Exile, WO raspberry ",
         "address": "103 S 1st Street, Winterset, Iowa, 50273",
         "image": "pheasant_run.jpg"
-      },
-      "Rustic Tap-Fontanelle": {
-        "name": "Rustic Tap",
-        "position": {
-          "lat": 41.2904231,
-          "lng": -94.5633747
-        },
-        "url": "https://www.facebook.com/rustictapfontanelle/",
-        "town": "Fontanelle",
-        "comments": "",
-        "address": "322 4th Street, Fontanelle, Iowa, 50846",
-        "image": "rustic_tap.jpg"
       },
       "Sports Page Grill-Winterset": {
         "name": "Sports Page Grill",
         "position": {
-          "lat": 41.3436545,
-          "lng": -94.0110183
+          "lat": 41.343572,
+          "lng": -94.010944
         },
-        "url": "https://thesportspagegrill.com/sports-page/contact-winterset.php",
+        "url": "http://www.thesportspagegrill.com/",
         "town": "Winterset",
         "comments": "On Tap: Busch Light, Coors Light, Big Rack Snakebite IPA, Big Grove Easy Eddy, Big Rack Honey Badger Brown, Blue Moon, Toppling Goliath Pseudo Sue, Exile Ruthie. Bottle and can standards.",
         "address": "224 East Hwy 92, Winterset, Iowa, 50273",
@@ -2577,8 +3019,8 @@
       "The Drift-Winterset": {
         "name": "The Drift",
         "position": {
-          "lat": 41.3349014,
-          "lng": -94.014939
+          "lat": 41.33491,
+          "lng": -94.014896
         },
         "url": "https://www.thedriftia.com/",
         "town": "Winterset",
@@ -2586,53 +3028,29 @@
         "address": "112 N 1st Avenue (1st floor only), Winterset, Iowa, 50273",
         "image": "the_drift.jpg"
       },
-      "The Dugout Cafe-Orient": {
-        "name": "The Dugout Cafe",
+      "The Honey Lounge-Winterset": {
+        "name": "The Honey Lounge",
         "position": {
-          "lat": 41.2030875,
-          "lng": -94.4164312
+          "lat": 41.334103,
+          "lng": -94.014457
         },
-        "url": "",
-        "town": "Orient",
-        "comments": "",
-        "address": "101 East 1st Street, Orient, Iowa, 50858",
-        "image": "dugout_cafe.jpg"
+        "url": "https://hayneshomestead.com/",
+        "town": "Winterset",
+        "comments": "craft mead, Wilson raspberry cider, and big grove citrus wheat, summer jam \u0026 carbliss seltzer will be open at 2pm",
+        "address": "111 South 1st Avenue, Winterset, Iowa, 50273",
+        "image": ""
       },
       "Urban Taproom-Winterset": {
         "name": "Urban Taproom",
         "position": {
-          "lat": 41.3481231,
-          "lng": -94.0131654
+          "lat": 41.348135,
+          "lng": -94.012927
         },
-        "url": "https://urbantaproomandgrill.com/",
+        "url": "",
         "town": "Winterset",
         "comments": "West coast IPA, hazy IPA, summer shandy wheat, several fruited sours and goses, light lager",
         "address": "206 Iowa 92, Winterset, Iowa, 50273",
         "image": "urban_taproom.jpg"
-      },
-      "Wiota Steakhouse \u0026 Lounge-Wiota": {
-        "name": "Wiota Steakhouse \u0026 Lounge",
-        "position": {
-          "lat": 41.401319,
-          "lng": -94.8873896
-        },
-        "url": "https://www.facebook.com/p/Wiota-Steakhouse-100063771661596/",
-        "town": "Wiota",
-        "comments": "NONE",
-        "address": "302 Center, Wiota, Iowa, 50274",
-        "image": "wiota_steakhouse.jpg"
-      },
-      "Wreckers or Checkers-Fontanelle": {
-        "name": "Wreckers or Checkers",
-        "position": {
-          "lat": 41.2906481,
-          "lng": -94.5620919
-        },
-        "url": "https://www.facebook.com/vaneaton31/",
-        "town": "Fontanelle",
-        "comments": "NONE",
-        "address": "412 Main Street, Fontanelle, Iowa, 50846",
-        "image": "wreckers_or_checkers.jpg"
       }
     }
   },
@@ -2648,34 +3066,25 @@
       {
         "name": "St. Charles",
         "bars": [
-          "Talk Shop Lounge-St. Charles"
+          "Talk Shop Lounge-St. Charles",
+          "Madison County Winery-St. Charles"
         ]
       },
       {
-        "name": "St. Marys",
+        "name": "1 mi past St Marys",
         "bars": [
-          "Northside Tavern-St. Marys"
+          "Iowa Craft Beer Tent-1 mi past St Marys"
         ]
       },
       {
         "name": "Indianola",
         "bars": [
-          "Brickhouse Tavern-Indianola",
-          "Deer Run Golf Club-Indianola",
-          "Pete's Pizza-Indianola",
-          "The Garage-Indianola",
+          "Indianola Country Club-Indianola",
           "The Groggy Dog-Indianola",
           "The Hide Out-Indianola",
-          "The Sports Page Grill-Indianola",
+          "The Local Vine-Indianola",
           "West Hill Brewing Company-Indianola",
-          "Z's Eatery and Draught Haus-Indianola",
-          "The Zoo-Indianola"
-        ]
-      },
-      {
-        "name": "Milo",
-        "bars": [
-          "Houstons on Main-Milo"
+          "Z's Eatery and Draught Haus-Indianola"
         ]
       },
       {
@@ -2685,19 +3094,24 @@
         ]
       },
       {
-        "name": "Melcher-Dallas",
+        "name": "6 mi after Melcher-Dallas",
         "bars": [
-          "Hootie's M.D./Hootie's Pourhouse-Melcher-Dallas"
+          "Iowa Beer Bus-6 mi after Melcher-Dallas"
+        ]
+      },
+      {
+        "name": "5.5 mi before Knoxville",
+        "bars": [
+          "Iowa Craft Beer Tent-5.5 mi before Knoxville"
         ]
       },
       {
         "name": "Knoxville",
         "bars": [
-          "Atlantic \u0026 Pacific Pub-Knoxville",
-          "Bottoms Up Lounge-Knoxville",
-          "Dingus Lounge-Knoxville",
+          "Cobblestone Hotel \u0026 Suites-Knoxville",
           "One Eleven Public House-Knoxville",
-          "Peace Tree Brewing Company-Knoxville"
+          "Peace Tree Brewing Company-Knoxville",
+          "Rib Shack-Knoxville"
         ]
       }
     ],
@@ -3224,121 +3638,97 @@
       }
     ],
     "bars": {
-      "Atlantic \u0026 Pacific Pub-Knoxville": {
-        "name": "Atlantic \u0026 Pacific Pub",
-        "position": {
-          "lat": 41.3186937,
-          "lng": -93.0962998
-        },
-        "url": "",
-        "town": "Knoxville",
-        "comments": "",
-        "address": "105 S. 3rd Street, Knoxville, Iowa, 50138",
-        "image": "atlantic_and_pacific.jpg"
-      },
       "Backroads Bar and Grill-Lacona": {
         "name": "Backroads Bar and Grill",
         "position": {
-          "lat": 41.1893219,
-          "lng": -93.384037
+          "lat": 41.189315,
+          "lng": -93.383769
         },
-        "url": "https://www.facebook.com/BackroadsBarLacona/",
+        "url": "https://cyrusramsey.com/places/backroads-bar-and-grill/",
         "town": "Lacona",
         "comments": "FB message",
         "address": "107 S Washington Ave, Lacona, Iowa, 50139",
         "image": "backroads.jpg"
       },
-      "Bottoms Up Lounge-Knoxville": {
-        "name": "Bottoms Up Lounge",
+      "Cobblestone Hotel \u0026 Suites-Knoxville": {
+        "name": "Cobblestone Hotel \u0026 Suites",
         "position": {
-          "lat": 41.3178247,
-          "lng": -93.097277
+          "lat": 41.308037,
+          "lng": -93.111575
         },
-        "url": "https://www.facebook.com/BottomsUpKnoxville/about",
+        "url": "http://www.staycobblestone.com/ia/knoxville/",
         "town": "Knoxville",
-        "comments": "Yes",
-        "address": "208 E Robinson St, Knoxville, Iowa, 50138",
-        "image": "bottoms_up.jpg"
-      },
-      "Brickhouse Tavern-Indianola": {
-        "name": "Brickhouse Tavern",
-        "position": {
-          "lat": 41.360604,
-          "lng": -93.562425
-        },
-        "url": "https://thesportspagegrill.com/brickhouse/index.php",
-        "town": "Indianola",
-        "comments": "Email",
-        "address": "107 North Buxton St., Indianola, Iowa, 50125",
-        "image": "brickhouse_tavern.jpeg"
-      },
-      "Deer Run Golf Club-Indianola": {
-        "name": "Deer Run Golf Club",
-        "position": {
-          "lat": 41.3547927,
-          "lng": -93.5920335
-        },
-        "url": "",
-        "town": "Indianola",
-        "comments": "No answer",
-        "address": "2305 West 2nd Avenue, Indianola, Iowa, 50125",
+        "comments": "",
+        "address": "1212 Eric Drive, Knoxville, Iowa, 50138",
         "image": ""
       },
-      "Dingus Lounge-Knoxville": {
-        "name": "Dingus Lounge",
+      "Indianola Country Club-Indianola": {
+        "name": "Indianola Country Club",
         "position": {
-          "lat": 41.325031,
-          "lng": -93.1093428
+          "lat": 41.378517,
+          "lng": -93.565669
         },
-        "url": "https://www.facebook.com/people/Dingus-Lounge/100044055675133/",
-        "town": "Knoxville",
-        "comments": "FB message",
-        "address": "713 N Lincoln, Knoxville, Iowa, 50138-0000",
-        "image": "dingus.jpg"
-      },
-      "Hootie's M.D./Hootie's Pourhouse-Melcher-Dallas": {
-        "name": "Hootie's M.D./Hootie's Pourhouse",
-        "position": {
-          "lat": 41.2238773,
-          "lng": -93.2413187
-        },
-        "url": "hootiesmd.wordpress.com",
-        "town": "Melcher-Dallas",
-        "comments": "FB message",
-        "address": "111 E Center St, Melcher-Dallas, Iowa, 50163",
-        "image": "hooties.jpg"
-      },
-      "Houstons on Main-Milo": {
-        "name": "Houstons on Main",
-        "position": {
-          "lat": 41.2869794,
-          "lng": -93.4393954
-        },
-        "url": "https://www.facebook.com/houstonsonmain/",
-        "town": "Milo",
-        "comments": "Yes",
-        "address": "120 Main Street, Milo, Iowa, 50166",
-        "image": "houstons_on_main.jpg"
-      },
-      "Northside Tavern-St. Marys": {
-        "name": "Northside Tavern",
-        "position": {
-          "lat": 41.308145,
-          "lng": -93.7325188
-        },
-        "url": "https://northside-grill-st-marys.edan.io/",
-        "town": "St. Marys",
+        "url": "https://indianolacountryclub.com/",
+        "town": "Indianola",
         "comments": "",
-        "address": "131 Iowa Street, St. Marys, Iowa, 50241",
-        "image": "northside_bar.jpg"
+        "address": "1610 Country Club Road, Indianola, Iowa, 50125-0000",
+        "image": ""
+      },
+      "Iowa Beer Bus-6 mi after Melcher-Dallas": {
+        "name": "Iowa Beer Bus",
+        "position": {
+          "lat": 41.2045379,
+          "lng": -93.1518447
+        },
+        "url": "",
+        "town": "6 mi after Melcher-Dallas",
+        "comments": "",
+        "address": "",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-1 mi past St Marys": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.3235799,
+          "lng": -93.7309441
+        },
+        "url": "",
+        "town": "1 mi past St Marys",
+        "comments": "",
+        "address": "13925 Co Rd R45 Prole, IA 50229",
+        "image": ""
+      },
+      "Iowa Craft Beer Tent-5.5 mi before Knoxville": {
+        "name": "Iowa Craft Beer Tent",
+        "position": {
+          "lat": 41.255012,
+          "lng": -93.115955
+        },
+        "url": "",
+        "town": "5.5 mi before Knoxville",
+        "comments": "",
+        "address": "1852 120th Ave, Knoxville, IA 50138",
+        "image": ""
+      },
+      "Madison County Winery-St. Charles": {
+        "name": "Madison County Winery",
+        "position": {
+          "lat": 41.285187,
+          "lng": -93.861453
+        },
+        "url": "http://madisoncountywinery.com/",
+        "town": "St. Charles",
+        "comments": "",
+        "address": "3021 St. Charles Rd Winery Building, St. Charles, Iowa, 50240",
+        "image": ""
       },
       "One Eleven Public House-Knoxville": {
         "name": "One Eleven Public House",
         "position": {
-          "lat": 41.3190649,
-          "lng": -93.0982024
+          "lat": 41.319073,
+          "lng": -93.098221
         },
-        "url": "https://www.oneelevenpublichouse.com/",
+        "url": "http://www.oneelevenpublichouse.com/",
         "town": "Knoxville",
         "comments": "No",
         "address": "111 East Main Street, Knoxville, Iowa, 50138",
@@ -3347,56 +3737,44 @@
       "Peace Tree Brewing Company-Knoxville": {
         "name": "Peace Tree Brewing Company",
         "position": {
-          "lat": 41.3192107,
-          "lng": -93.0993326
+          "lat": 41.319212,
+          "lng": -93.09934
         },
-        "url": "https://www.facebook.com/peacetreebrewing/",
+        "url": "http://www.peacetreebrewing.com/",
         "town": "Knoxville",
         "comments": "No",
         "address": "101-107 W Main Street, Knoxville, Iowa, 50138",
         "image": "peace_tree.jpg"
       },
-      "Pete's Pizza-Indianola": {
-        "name": "Pete's Pizza",
+      "Rib Shack-Knoxville": {
+        "name": "Rib Shack",
         "position": {
-          "lat": 41.3609271,
-          "lng": -93.5605718
+          "lat": 41.328182,
+          "lng": -93.109962
         },
-        "url": "https://petespizzaiowa.com/",
-        "town": "Indianola",
+        "url": "http://www.greatcaterersofiowa.com/",
+        "town": "Knoxville",
         "comments": "",
-        "address": "118 North Howard Street, Indianola, Iowa, 50125",
-        "image": "petes_pizza.jpg"
+        "address": "1102 North Lincoln Street, Knoxville, Iowa, 50138",
+        "image": ""
       },
       "Talk Shop Lounge-St. Charles": {
         "name": "Talk Shop Lounge",
         "position": {
-          "lat": 41.2920715,
-          "lng": -93.7980494
+          "lat": 41.292103,
+          "lng": -93.79805
         },
-        "url": "https://www.facebook.com/talkshop/",
+        "url": "https://www.toasttab.com/talkshoplounge-3357-st-charles-road",
         "town": "St. Charles",
         "comments": "Messaged",
         "address": "3357 St. Charles Road, St. Charles, IA 50240",
         "image": "talk_shop.jpg"
       },
-      "The Garage-Indianola": {
-        "name": "The Garage",
-        "position": {
-          "lat": 41.3614823,
-          "lng": -93.5603087
-        },
-        "url": "https://www.facebook.com/p/The-Garage-in-Indianola-100057484915268/",
-        "town": "Indianola",
-        "comments": "",
-        "address": "114 E Ashland Ave, Indianola, Iowa, 50125",
-        "image": "the_garage.jpg"
-      },
       "The Groggy Dog-Indianola": {
         "name": "The Groggy Dog",
         "position": {
-          "lat": 41.3615354,
-          "lng": -93.561651
+          "lat": 41.361546,
+          "lng": -93.561698
         },
         "url": "https://thegroggydog.com/",
         "town": "Indianola",
@@ -3407,46 +3785,34 @@
       "The Hide Out-Indianola": {
         "name": "The Hide Out",
         "position": {
-          "lat": 41.3635735,
-          "lng": -93.5590877
+          "lat": 41.363599,
+          "lng": -93.559088
         },
-        "url": "https://www.facebook.com/IndianolaHideOut/",
+        "url": "https://m.facebook.com/IndianolaHideOut/",
         "town": "Indianola",
         "comments": "",
         "address": "204 E Clinton Ave, Indianola, Iowa, 50125",
         "image": "the_hide_out.jpg"
       },
-      "The Sports Page Grill-Indianola": {
-        "name": "The Sports Page Grill",
+      "The Local Vine-Indianola": {
+        "name": "The Local Vine",
         "position": {
-          "lat": 41.3567034,
-          "lng": -93.5849982
+          "lat": 41.361538,
+          "lng": -93.562116
         },
-        "url": "https://thesportspagegrill.com/sports-page/index.php",
+        "url": "https://www.facebook.com/IndyLocalVine/",
         "town": "Indianola",
         "comments": "",
-        "address": "1802 West 2nd Ave., Indianola, Iowa, 50125",
-        "image": "sports_page_grill_indianola.jpg"
-      },
-      "The Zoo-Indianola": {
-        "name": "The Zoo",
-        "position": {
-          "lat": 41.3615021,
-          "lng": -93.561108
-        },
-        "url": "https://bar-zoo.com/",
-        "town": "Indianola",
-        "comments": "",
-        "address": "102 W Ashland, Indianola, Iowa, 50125",
-        "image": "the_zoo.jpg"
+        "address": "126 W Ashland, Indianola, Iowa, 50125",
+        "image": ""
       },
       "West Hill Brewing Company-Indianola": {
         "name": "West Hill Brewing Company",
         "position": {
-          "lat": 41.3601382,
-          "lng": -93.5633127
+          "lat": 41.360149,
+          "lng": -93.5633
         },
-        "url": "",
+        "url": "http://westhillbrewingcompany.com/?utm_source=google\u0026utm_medium=organic\u0026utm_campaign=gmb-info",
         "town": "Indianola",
         "comments": "EMAILED",
         "address": "219 West Salem Avenue, Indianola, Iowa, 50125",
@@ -3455,10 +3821,10 @@
       "Z's Eatery and Draught Haus-Indianola": {
         "name": "Z's Eatery and Draught Haus",
         "position": {
-          "lat": 41.3742951,
-          "lng": -93.5596344
+          "lat": 41.374176,
+          "lng": -93.55959
         },
-        "url": "https://zsindianola.com/",
+        "url": "http://www.zsindianola.com/",
         "town": "Indianola",
         "comments": "",
         "address": "1501 N 1st St, Indianola, IA 50125",

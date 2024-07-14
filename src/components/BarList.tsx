@@ -56,7 +56,7 @@ export function BarList({setSelectedBar, barTowns, barDetails}: Props) {
             const bar = barDetails[barId];
             const barDiv = (<BarDiv key={barId} onClick={() => setSelectedBar(barId)}>
                 <BarNameDiv>{bar.name}</BarNameDiv>
-                <BarCommentsDiv>{bar.comments}</BarCommentsDiv>
+                {/*<BarCommentsDiv>{bar.comments}</BarCommentsDiv>*/}
             </BarDiv>)
             if(i % 2 === 0) {
                 barDivs.push(barDiv);
