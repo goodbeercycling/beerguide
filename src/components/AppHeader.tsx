@@ -26,7 +26,7 @@ export function AppHeader({
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container>
                 <Navbar.Brand>TGB bar guide</Navbar.Brand>
-                <Nav.Link href="https://www.teamgoodbeer.org/s/2023-Bar-Guide.pdf" target="_blank"
+                <Nav.Link href="https://www.teamgoodbeer.org/s/2024-Bar-Guide.pdf" target="_blank"
                           rel="noreferrer noopener">
                     <Button variant="outline-primary">Download PDF</Button>
                 </Nav.Link>
