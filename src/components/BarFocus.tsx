@@ -2,7 +2,6 @@ import {BarDetails} from "./BarDetails";
 import CloseButton from 'react-bootstrap/CloseButton';
 import styled from "styled-components";
 import {Dispatch, SetStateAction} from "react";
-import {Button} from "react-bootstrap";
 
 const API_KEY = process.env.REACT_APP_GOOGLE_MAPS_API_KEY as string;
 
@@ -37,8 +36,6 @@ export function BarFocus({selectedBar, setSelectedBar, barDetails}: Props) {
 
     if (barDetails.image) {
         const imageSrc = "assets/images/" + barDetails.image
-        console.log("showing image at: " + imageSrc)
-        // const image = require(imageSrc);
         img = (<img src={imageSrc}/>);
     } else if (barDetails.photoRef) {
         let imageSrc = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&key=" + API_KEY + "&photo_reference=" + barDetails.photoRef;
