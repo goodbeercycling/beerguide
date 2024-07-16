@@ -27,7 +27,9 @@ export function DayDropdown({selectedDay, setSelectedDay, showCaseys, setShowCas
             title={selectedDay}
             drop={'down'}
             id={'dropdown-button-drop-down'}
-            align={'end'}
+            style={ {
+             fontSize: "x-large"
+            }}
         >
             <NavDropdown.Item onClick={() => changeDay("Sunday")}>Sunday</NavDropdown.Item>
             <NavDropdown.Item onClick={() => changeDay("Monday")}>Monday</NavDropdown.Item>

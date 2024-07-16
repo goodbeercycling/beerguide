@@ -5,13 +5,15 @@ import {DailyMap} from "./DailyMap";
 import {BarFocus} from "./BarFocus";
 import {BarList} from "./BarList";
 
-const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+const weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
 export function BarGuide() {
+    const dayOfWeek = weekday[new Date().getDay()];
     const [routes, setRoutes] = useState<DayRouteRecords>();
     const [caseys, setCaseys] = useState<CaseysData>();
     const [showCaseys, setShowCaseys] = useState<boolean>(false);
     const [showMyLocation, setShowMyLocation] = useState<boolean>(false);
-    const [selectedDay, setSelectedDay] = useState<string>(weekday[new Date().getDay()]);
+    const [selectedDay, setSelectedDay] = useState<string>(dayOfWeek);
     const [selectedBar, setSelectedBar] = useState<string>("");
     useEffect(() => {
         defaultRoutes().then(fetchedRoutes => {
@@ -40,7 +42,11 @@ export function BarGuide() {
             barDetails={barDetails}
         />);
     } else {
-        barFocus = <BarList setSelectedBar={setSelectedBar} barDetails={dayRoute.bars} barTowns={dayRoute.towns}/>
+        barFocus = <BarList
+            setSelectedBar={setSelectedBar}
+            barDetails={dayRoute.bars}
+            barTowns={dayRoute.towns}
+            day={selectedDay}/>
     }
 
     return (

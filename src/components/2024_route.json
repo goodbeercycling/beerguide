@@ -733,7 +733,7 @@
         "town": "Fairfield",
         "comments": "Left message",
         "address": "102 North 2nd Street, Fairfield, Iowa, 52556",
-        "image": ""
+        "image": "due_south.jpg"
       },
       "Fairfield Golf and Country Club-Fairfield": {
         "name": "Fairfield Golf and Country Club",
@@ -745,7 +745,7 @@
         "town": "Fairfield",
         "comments": "",
         "address": "905 East Harrison Ave, Fairfield, Iowa, 52556",
-        "image": ""
+        "image": "fairfield_golf.jpg"
       },
       "Hideaway Pub \u0026 Beer Garden-Fairfield": {
         "name": "Hideaway Pub \u0026 Beer Garden",
@@ -757,7 +757,7 @@
         "town": "Fairfield",
         "comments": "FB",
         "address": "113 1/2 North Court Street, Fairfield, Iowa, 52556",
-        "image": ""
+        "image": "hideaway.jpg"
       },
       "Iowa Beer Bus-Selma": {
         "name": "Iowa Beer Bus",
@@ -769,7 +769,7 @@
         "town": "Selma",
         "comments": "",
         "address": "Near Selma",
-        "image": ""
+        "image": "Iowa_beer_bus.jpg"
       },
       "Iowa Craft Beer Tent-3 mi after Selma": {
         "name": "Iowa Craft Beer Tent",
@@ -781,7 +781,7 @@
         "town": "3 mi after Selma",
         "comments": "",
         "address": "13816 IA-16. Douds,IA 52551",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Iowa Craft Beer Tent-Trenton": {
         "name": "Iowa Craft Beer Tent",
@@ -793,7 +793,7 @@
         "town": "Trenton",
         "comments": "",
         "address": "Trenton City Park.",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "La Notte Lounge Bar-Fairfield": {
         "name": "La Notte Lounge Bar",
@@ -805,7 +805,7 @@
         "town": "Fairfield",
         "comments": "Instagram",
         "address": "101 W Broadway ave, Fairfield, Iowa, 52556",
-        "image": ""
+        "image": "la_notte.jpg"
       },
       "Pecks Pub-Libertyville": {
         "name": "Pecks Pub",
@@ -817,7 +817,7 @@
         "town": "Libertyville",
         "comments": "Yes",
         "address": "107 W Maple, Libertyville, Iowa, 52567",
-        "image": ""
+        "image": "pecks_pub.jpg"
       },
       "The Eagles Nest-Coppock": {
         "name": "The Eagles Nest",
@@ -829,7 +829,7 @@
         "town": "Coppock",
         "comments": "",
         "address": "3392 Locust Ave, Wayland, IA 52654",
-        "image": ""
+        "image": "eagles_nest.jpg"
       },
       "The Grange Public House and Brewery-Mt. Pleasant": {
         "name": "The Grange Public House and Brewery",
@@ -841,7 +841,7 @@
         "town": "Mt. Pleasant",
         "comments": "Website",
         "address": "129 S. Jefferson Street, Mount Pleasant, Iowa, 52641",
-        "image": ""
+        "image": "the_grange.jpg"
       },
       "The Pressbox Grill \u0026 Bar-Mt. Pleasant": {
         "name": "The Pressbox Grill \u0026 Bar",
@@ -853,7 +853,7 @@
         "town": "Mt. Pleasant",
         "comments": "FB",
         "address": "1110 W Washington, Mount Pleasant, Iowa, 52641",
-        "image": ""
+        "image": "press_box_mt_pleasant.jpg"
       },
       "Westside Tap-Mt. Pleasant": {
         "name": "Westside Tap",
@@ -1106,7 +1106,7 @@
         "town": "Griswold",
         "comments": "Glenwood Iowa- Apricot Gold on Tap",
         "address": "524 Main Street, Griswold, Iowa 51535",
-        "image": ""
+        "image": "east_of_omaha.jpg"
       },
       "Elbow Room-Atlantic": {
         "name": "Elbow Room",
@@ -1142,7 +1142,7 @@
         "town": "2 mi past Griswold",
         "comments": "",
         "address": "66376 550th St, Griswold, IA 51535",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Iowa Craft Beer Tent-4 mi after Lewis": {
         "name": "Iowa Craft Beer Tent",
@@ -1154,7 +1154,7 @@
         "town": "4 mi after Lewis",
         "comments": "",
         "address": "60211 570th St. Atlantic, IA 50022",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Lewis Fire Department-Lewis": {
         "name": "Lewis Fire Department",
@@ -1451,7 +1451,7 @@
         "town": "Mediapolis",
         "comments": "Yes",
         "address": "530 Main Street, Mediapolis, Iowa, 52637",
-        "image": ""
+        "image": "bulldogs.jpg"
       },
       "Good Restaurant + Lounge-Burlington": {
         "name": "Good Restaurant + Lounge",
@@ -1463,7 +1463,7 @@
         "town": "Burlington",
         "comments": "",
         "address": "423 North 3rd Street., Burlington, Iowa, 52601",
-        "image": ""
+        "image": "good.jpg"
       },
       "Iowa Craft Beer Tent-9 mi before Mediapolis": {
         "name": "Iowa Craft Beer Tent",
@@ -1475,7 +1475,7 @@
         "town": "9 mi before Mediapolis",
         "comments": "",
         "address": "20472 Mediapolis Rd. Yarmouth, IA 52660",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "The Buffalo-Burlington": {
         "name": "The Buffalo",
@@ -1487,7 +1487,7 @@
         "town": "Burlington",
         "comments": "",
         "address": "2016 S Main St, Burlington, Iowa, 52601",
-        "image": ""
+        "image": "buffalo_tavern.jpg"
       },
       "The Busted Cup Brewhouse-Burlington": {
         "name": "The Busted Cup Brewhouse",
@@ -1499,7 +1499,7 @@
         "town": "Burlington",
         "comments": "",
         "address": "724 Jefferson St, Burlington, IA 52601",
-        "image": ""
+        "image": "busted_cup.jpg"
       },
       "The Som-Burlington": {
         "name": "The Som",
@@ -1511,7 +1511,7 @@
         "town": "Burlington",
         "comments": "",
         "address": "863 Jefferson, Burlington, Iowa, 52601",
-        "image": ""
+        "image": "som.jpg"
       },
       "Valley Monster Pub-Burlington": {
         "name": "Valley Monster Pub",
@@ -1523,7 +1523,7 @@
         "town": "Burlington",
         "comments": "",
         "address": "217 Valley Street, Burlington, Iowa, 52601",
-        "image": ""
+        "image": "valley_monster.jpg"
       }
     }
   },
@@ -1578,7 +1578,7 @@
       {
         "name": "Burlington",
         "bars": [
-          "Drake, The-Burlington"
+          "The Drake-Burlington"
         ]
       }
     ],
@@ -1765,18 +1765,6 @@
       }
     ],
     "bars": {
-      "Drake, The-Burlington": {
-        "name": "Drake, The",
-        "position": {
-          "lat": 40.81089,
-          "lng": -91.100236
-        },
-        "url": "http://www.thedrakerestaurant.com/",
-        "town": "Burlington",
-        "comments": "#REF!",
-        "address": "106 Washington St, Burlington, Iowa, 52601",
-        "image": ""
-      },
       "Five One 8-Red Oak": {
         "name": "Five One 8",
         "position": {
@@ -1799,7 +1787,7 @@
         "town": "Emerson",
         "comments": "",
         "address": "Near Emerson",
-        "image": ""
+        "image": "Iowa_beer_bus.jpg"
       },
       "Iowa Craft Beer Tent-2.5 mi past Silver City": {
         "name": "Iowa Craft Beer Tent",
@@ -1811,7 +1799,7 @@
         "town": "2.5 mi past Silver City",
         "comments": "",
         "address": "32064 Cary Ave. Silver City, IA 55171",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Iowa Craft Beer Tent-5 mi before Emerson": {
         "name": "Iowa Craft Beer Tent",
@@ -1823,7 +1811,7 @@
         "town": "5 mi before Emerson",
         "comments": "",
         "address": "55052 Us Hwy 59, Emerson, IA 51533",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Keg Creek Brewing Company-Glenwood": {
         "name": "Keg Creek Brewing Company",
@@ -1835,7 +1823,7 @@
         "town": "Glenwood",
         "comments": "Tap room is closed right?!?",
         "address": "22381  221St. Street, Glenwood, Iowa, 51534",
-        "image": ""
+        "image": "keg_creek.jpg"
       },
       "Quarthouse Lounge \u0026 Grill-Glenwood": {
         "name": "Quarthouse Lounge \u0026 Grill",
@@ -1847,7 +1835,7 @@
         "town": "Glenwood",
         "comments": "Has an IPA on tap- think he said Fairydust crowd noise hard to hear, FB page has huge Budweiser pic",
         "address": "20 N. Walnut Street, Glenwood, Iowa, 51534",
-        "image": ""
+        "image": "quarthouse.jpg"
       },
       "Silver Spokes-Silver City": {
         "name": "Silver Spokes",
@@ -1872,6 +1860,18 @@
         "comments": "carries Keg Creek cans and tap and Iowa Fire IPA can- riders welcome inside",
         "address": "1200 Senate Ave, Red Oak, Iowa, 51566",
         "image": "stadium_34.jpg"
+      },
+      "The Drake-Burlington": {
+        "name": "The Drake",
+        "position": {
+          "lat": 40.81089,
+          "lng": -91.100236
+        },
+        "url": "http://www.thedrakerestaurant.com/",
+        "town": "Burlington",
+        "comments": "#REF!",
+        "address": "106 Washington St, Burlington, Iowa, 52601",
+        "image": "drake.jpg"
       },
       "Williams Recreation Parlor-Red Oak": {
         "name": "Williams Recreation Parlor",
@@ -2412,7 +2412,7 @@
         "town": "Ottumwa",
         "comments": "",
         "address": "107 E 2nd St, Ottumwa, Iowa, 52501-0000",
-        "image": ""
+        "image": "hotel_ottumwa.jpg"
       },
       "Iowa Beer Bus-Lovilia": {
         "name": "Iowa Beer Bus",
@@ -2424,7 +2424,7 @@
         "town": "Lovilia",
         "comments": "",
         "address": "Near Lovilia",
-        "image": ""
+        "image": "Iowa_beer_bus.jpg"
       },
       "Iowa Craft Beer Tent-2 mi after Chillicothe": {
         "name": "Iowa Craft Beer Tent",
@@ -2436,7 +2436,7 @@
         "town": "2 mi after Chillicothe",
         "comments": "",
         "address": "18414 Rock Bluff Road Ottumwa, IA 52501",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Iowa Craft Beer Tent-4.5 mi after Lovilia": {
         "name": "Iowa Craft Beer Tent",
@@ -2448,7 +2448,7 @@
         "town": "4.5 mi after Lovilia",
         "comments": "",
         "address": "1522 618th Place, Albia, Ia. 52531",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Melody's Kitchen-Eddyville": {
         "name": "Melody's Kitchen",
@@ -2460,7 +2460,7 @@
         "town": "Eddyville",
         "comments": "",
         "address": "205 Walnut St., Eddyville, Iowa, 52553",
-        "image": ""
+        "image": "melodys_kitchen.jpg"
       },
       "Ottumwa Golf and Social Club-Ottumwa": {
         "name": "Ottumwa Golf and Social Club",
@@ -2472,7 +2472,7 @@
         "town": "Ottumwa",
         "comments": "",
         "address": "304 East Golf Avenue, Ottumwa, Iowa, 52501",
-        "image": ""
+        "image": "ottumwa_social_club.jpg"
       },
       "Pallister Brothers-Ottumwa": {
         "name": "Pallister Brothers",
@@ -2484,7 +2484,7 @@
         "town": "Ottumwa",
         "comments": "",
         "address": "116 N. Market St., Ottumwa, Iowa, 52501",
-        "image": ""
+        "image": "pallister_brothers.jpg"
       },
       "Snookered-Ottumwa": {
         "name": "Snookered",
@@ -2496,7 +2496,7 @@
         "town": "Ottumwa",
         "comments": "FB",
         "address": "109 South Green Street, Ottumwa, Iowa, 52501",
-        "image": ""
+        "image": "snookered.jpg"
       },
       "Warehouse Barbecue-Ottumwa": {
         "name": "Warehouse Barbecue",
@@ -2508,7 +2508,7 @@
         "town": "Ottumwa",
         "comments": "FB ",
         "address": "2818 N COURT ROAD, Ottumwa, Iowa, 52501",
-        "image": ""
+        "image": "warehouse_barbeque.jpg"
       }
     }
   },
@@ -2930,7 +2930,7 @@
         "town": "Greenfield",
         "comments": "Can's- Big Grove Easy Eddie IPA and Tailwind",
         "address": "203 E Iowa, Greenfield, Iowa, 50849-0000",
-        "image": ""
+        "image": "greenfield_bowl.jpg"
       },
       "Hotel Greenfield-Greenfield": {
         "name": "Hotel Greenfield",
@@ -2942,7 +2942,7 @@
         "town": "Greenfield",
         "comments": "Goose IPA cans",
         "address": "110 East Iowa Street, Greenfield, Iowa, 50849",
-        "image": ""
+        "image": "hotel_greenfield.jpg"
       },
       "Iowa Beer Bus-Macksburg": {
         "name": "Iowa Beer Bus",
@@ -2954,7 +2954,7 @@
         "town": "Macksburg",
         "comments": "",
         "address": "Near Macksburg",
-        "image": ""
+        "image": "Iowa_beer_bus.jpg"
       },
       "Iowa Craft Beer Tent-3 mi past Greenfield": {
         "name": "Iowa Craft Beer Tent",
@@ -2966,7 +2966,7 @@
         "town": "3 mi past Greenfield",
         "comments": "",
         "address": "2657 State Hwy 25, Greenfield, IA 50849",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Iowa Craft Beer Tent-7 mi before Winterset": {
         "name": "Iowa Craft Beer Tent",
@@ -2978,7 +2978,7 @@
         "town": "7 mi before Winterset",
         "comments": "",
         "address": "2817 Clark Tower Rd Peru, IA 50222",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Massena Fire Department-Massena": {
         "name": "Massena Fire Department",
@@ -3672,7 +3672,7 @@
         "town": "Indianola",
         "comments": "",
         "address": "1610 Country Club Road, Indianola, Iowa, 50125-0000",
-        "image": ""
+        "image": "indianola_country_club.jpg"
       },
       "Iowa Beer Bus-6 mi after Melcher-Dallas": {
         "name": "Iowa Beer Bus",
@@ -3684,7 +3684,7 @@
         "town": "6 mi after Melcher-Dallas",
         "comments": "",
         "address": "",
-        "image": ""
+        "image": "Iowa_beer_bus.jpg"
       },
       "Iowa Craft Beer Tent-1 mi past St Marys": {
         "name": "Iowa Craft Beer Tent",
@@ -3696,7 +3696,7 @@
         "town": "1 mi past St Marys",
         "comments": "",
         "address": "13925 Co Rd R45 Prole, IA 50229",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Iowa Craft Beer Tent-5.5 mi before Knoxville": {
         "name": "Iowa Craft Beer Tent",
@@ -3708,7 +3708,7 @@
         "town": "5.5 mi before Knoxville",
         "comments": "",
         "address": "1852 120th Ave, Knoxville, IA 50138",
-        "image": ""
+        "image": "backpocket.jpg"
       },
       "Madison County Winery-St. Charles": {
         "name": "Madison County Winery",
@@ -3720,7 +3720,7 @@
         "town": "St. Charles",
         "comments": "",
         "address": "3021 St. Charles Rd Winery Building, St. Charles, Iowa, 50240",
-        "image": ""
+        "image": "madison_county_winery.jpg"
       },
       "One Eleven Public House-Knoxville": {
         "name": "One Eleven Public House",
@@ -3756,7 +3756,7 @@
         "town": "Knoxville",
         "comments": "",
         "address": "1102 North Lincoln Street, Knoxville, Iowa, 50138",
-        "image": ""
+        "image": "rib_shack.jpg"
       },
       "Talk Shop Lounge-St. Charles": {
         "name": "Talk Shop Lounge",

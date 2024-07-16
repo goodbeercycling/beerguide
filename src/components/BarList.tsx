@@ -6,27 +6,31 @@ import {Col, Row} from "react-bootstrap";
 
 
 type Props = {
+    day: string;
     setSelectedBar: Dispatch<SetStateAction<string>>;
     barTowns: Array<BarTown>,
     barDetails: BarDetailRecords,
 };
 
 const TownDiv = styled.div`
-  //border-width: 1px;
-  //border-color: black;
-  //border-style: solid;
+  color: white;
   margin: 2px;
-  background: #ffea00;
+  background: #000000;
 `;
 const BarDiv = styled.div`
-  border-width: 1px;
-  border-color: black;
-  border-style: solid;
   margin: 2px 1px;
-  background: #ffffff;
+  background: #e1caf8;
 
   &:hover {
-    background: #ffed5f;
+    background: #ffffff;
+  }
+`;
+const SponsorDiv = styled.div`
+  margin: 2px 1px 30px;
+  background: #00ccff;
+
+  &:hover {
+    background: #ffffff;
   }
 `;
 const BarNameDiv = styled.div`
@@ -46,8 +50,23 @@ const BarTd = styled.td`
   width: 50%;
 `;
 
-export function BarList({setSelectedBar, barTowns, barDetails}: Props) {
+export function BarList({day, setSelectedBar, barTowns, barDetails}: Props) {
     const barList = [];
+    if(day === "Saturday") {
+        // TODO: cleanup this sponsor hack
+        let sponsorId = "Valley Monster Pub-Burlington";
+        const sponsor = barDetails[sponsorId]
+        if(sponsor) {
+            const sponsorLove = (<div key={sponsor.name}>
+                <TownDiv><b>Visit our sponsor in Burlington today!</b></TownDiv>
+                <BarDiv key={sponsorId} onClick={() => setSelectedBar(sponsorId)}>
+                    <SponsorDiv>{sponsor.name}</SponsorDiv>
+                    <BarCommentsDiv>{sponsor.comments}</BarCommentsDiv>
+                </BarDiv>
+            </div>)
+            barList.push(sponsorLove);
+        }
+    }
     for (const [key, value] of Object.entries(barTowns)) {
         const barDivs = []
         const rightBarDivs = []
@@ -64,10 +83,9 @@ export function BarList({setSelectedBar, barTowns, barDetails}: Props) {
                 rightBarDivs.push(barDiv);
             }
             i++;
-
         }
         const townDiv = (<div key={key}>
-            <TownDiv>{value.name}</TownDiv>
+            <TownDiv><b>{value.name}</b></TownDiv>
             <BarTable>
                 <BarTr>
                     <BarTd>{barDivs}</BarTd>

@@ -1,9 +1,10 @@
 import {Dispatch, SetStateAction} from "react";
 import {DayDropdown} from "./DayDropdown";
-import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import {Button} from "react-bootstrap";
+import styled from "styled-components";
+import Container from "react-bootstrap/Container";
 
 type Props = {
     selectedDay: string;
@@ -14,6 +15,17 @@ type Props = {
     setShowMyLocation: Dispatch<SetStateAction<boolean>>;
 };
 
+const TeamHeaderDiv = styled.div`
+  width: 100%;
+  font-size: x-large;
+  text-align: justify-all;
+  font-family: "Future Condensed",sans-serif;
+`
+
+const HeaderYearSpan = styled.span`
+    color: #00ccff;
+`
+
 export function AppHeader({
                               selectedDay,
                               setSelectedDay,
@@ -23,13 +35,13 @@ export function AppHeader({
                               setShowMyLocation
                           }: Props) {
     return (
+        <div>
+            <TeamHeaderDiv>
+                <b><HeaderYearSpan>2024</HeaderYearSpan> GOOD BEER BAR GUIDE</b>
+            </TeamHeaderDiv>
         <Navbar expand="lg" className="bg-body-tertiary">
+
             <Container>
-                <Navbar.Brand>TGB bar guide</Navbar.Brand>
-                <Nav.Link href="https://www.teamgoodbeer.org/s/2024-Bar-Guide.pdf" target="_blank"
-                          rel="noreferrer noopener">
-                    <Button variant="outline-primary">Download PDF</Button>
-                </Nav.Link>
                 <DayDropdown
                     selectedDay={selectedDay}
                     setSelectedDay={setSelectedDay}
@@ -38,7 +50,17 @@ export function AppHeader({
                     showMyLocation={showMyLocation}
                     setShowMyLocation={setShowMyLocation}
                 />
+                <Nav.Link href="https://www.teamgoodbeer.org/s/2024-Bar-Guide.pdf" target="_blank"
+                          rel="noreferrer noopener">
+                    <Button variant="primary"
+                    style={ {
+                        background: "#ce9cfd",
+                        color: "white",
+                        borderWidth: "0"
+                    } }>Download PDF</Button>
+                </Nav.Link>
             </Container>
         </Navbar>
+        </div>
     );
 }
