@@ -28,10 +28,6 @@ const BarDiv = styled.div`
 const SponsorDiv = styled.div`
   margin: 2px 1px 30px;
   background: #00ccff;
-
-  &:hover {
-    background: #ffffff;
-  }
 `;
 const BarNameDiv = styled.div`
   font-size: large;
