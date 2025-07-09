@@ -61,17 +61,21 @@ func TestGetAllPlaces(t *testing.T) {
 }
 
 func TestGetPlace(t *testing.T) {
+	day := "Wednesday"
+	placeName := "The 502 Grill House"
+	town := "Iowa Falls"
 	apiKey := os.Getenv("PLACES_API_KEY")
 	if apiKey == "" {
 		t.Fatal("the 'PLACES_API_KEY' environment variable should be set")
 	}
-	place, err := GetPlace("The Busted Cup Brewhouse", "Burlington", apiKey)
+	place, err := GetPlace(placeName, town, apiKey)
 	if err != nil {
 		t.Fatalf("error making request: %v", err)
 	}
 	fmt.Printf("print name: %s", place.PlacesApiDisplayName.Text)
 	rawPayload, err := json.MarshalIndent(&place, "", "  ")
 	fmt.Println(string(rawPayload))
+	fmt.Printf("%s,%s-%s,%s,%s,,,%f,%f,x,%s,\n", day, placeName, town, town, place.PlacesApiDisplayName.Text, place.Latitude, place.Longitude, place.GoogleMapsUri)
 }
 
 func TestPlacesApiResponseSerialization(t *testing.T) {

@@ -37,7 +37,7 @@ export function AppHeader({
     return (
         <div>
             <TeamHeaderDiv>
-                <b><HeaderYearSpan>2024</HeaderYearSpan> GOOD BEER BAR GUIDE</b>
+                <b><HeaderYearSpan>2025</HeaderYearSpan> GOOD BEER BAR GUIDE</b>
             </TeamHeaderDiv>
         <Navbar expand="lg" className="bg-body-tertiary">
 
@@ -50,7 +50,7 @@ export function AppHeader({
                     showMyLocation={showMyLocation}
                     setShowMyLocation={setShowMyLocation}
                 />
-                <Nav.Link href="https://www.teamgoodbeer.org/s/2024-Bar-Guide.pdf" target="_blank"
+                <Nav.Link href="https://www.teamgoodbeer.org/s/2025-Bar-Guide.pdf" target="_blank"
                           rel="noreferrer noopener">
                     <Button variant="primary"
                     style={ {

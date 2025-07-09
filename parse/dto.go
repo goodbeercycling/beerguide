@@ -22,46 +22,46 @@ func dayView(day string) MapView {
 	switch day {
 	case "Sunday":
 		view.Position = Location{
-			Lat: 41.1,
-			Lng: -95.5,
+			Lat: 43.2,
+			Lng: -95.9,
 		}
-		view.Zoom = 9
+		view.Zoom = 10
 	case "Monday":
 		view.Position = Location{
-			Lat: 41.21,
-			Lng: -95.12,
+			Lat: 43.4,
+			Lng: -95.08,
 		}
 		view.Zoom = 9
 	case "Tuesday":
 		view.Position = Location{
-			Lat: 41.44,
-			Lng: -94.51,
+			Lat: 43.4,
+			Lng: -94.57,
 		}
-		view.Zoom = 9
+		view.Zoom = 11
 	case "Wednesday":
 		view.Position = Location{
-			Lat: 41.36,
-			Lng: -93.45,
+			Lat: 42.9,
+			Lng: -93.77,
 		}
-		view.Zoom = 9
+		view.Zoom = 11
 	case "Thursday":
 		view.Position = Location{
-			Lat: 41.27,
-			Lng: -92.85,
+			Lat: 42.5,
+			Lng: -93.02,
 		}
-		view.Zoom = 9
+		view.Zoom = 11
 	case "Friday":
 		view.Position = Location{
-			Lat: 41.0,
-			Lng: -91.88,
+			Lat: 42.6,
+			Lng: -92.34,
 		}
-		view.Zoom = 9
+		view.Zoom = 11
 	case "Saturday":
 		view.Position = Location{
-			Lat: 40.9,
-			Lng: -91.33,
+			Lat: 42.7,
+			Lng: -91.67,
 		}
-		view.Zoom = 10
+		view.Zoom = 11
 	default:
 		panic("unable to find a map view for this day")
 	}

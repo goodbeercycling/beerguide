@@ -1,6 +1,6 @@
 import './App.css';
 import {BarGuide} from "./components/BarGuide";
-import {RoutePicker} from "./components/RoutePicker";
+// import {RoutePicker} from "./components/RoutePicker";
 
 function App() {
     return (

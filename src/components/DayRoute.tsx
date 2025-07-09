@@ -1,6 +1,6 @@
 import {BarDetailRecords, BarTown} from "./BarDetails";
-import prodData from './2024_route.json';
-import caseysData from './2024_caseys.json';
+import prodData from './2025_route.json';
+import caseysData from './2025_caseys.json';
 
 export type DayRoute = {
     view: MapView;
